@@ -1,0 +1,24 @@
+{{ $md := .Site.Params.body_is_markdown | default false }} {{ with
+.Site.Params.two }} {{ if .enable }}
+<section id="two" class="wrapper alt style2">
+  {{ range .section }}
+  <section class="spotlight">
+    <div class="image"><img src="{{ .img | relURL }}" alt="" /></div>
+    <div class="content">
+      <h2>{{ .title | safeHTML }}</h2>
+      {{ partial "body_text.html" (dict "context" . "md" $md) }} {{if .button }}
+      {{ range .link }}
+      <ul>
+        {{ if .newtab}}
+        <ui><a href="{{ .href}}" class="button fit" target="_blank">{{ .text }}</a></li>
+        {{ else }}
+        <ui><a href="{{ .href }}" class="button fit">{{ .text }}</a></li>
+        {{ end }}
+      </ul>
+      {{ end }}
+      {{ end }}
+    </div>
+  </section>
+  {{ end }}
+</section>
+{{ end }} {{ end }}

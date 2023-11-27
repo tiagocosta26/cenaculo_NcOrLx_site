@@ -1,0 +1,209 @@
+baseURL = "/"
+title = "XXI Cenáculo NcOrLx"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+paginate = "7"
+theme = "spectral"
+googleAnalytics = "G-G847G6KWGL"
+
+[params]
+fancyTitle = '<img srcset="/img/logo.png 484w, /img/logo_sm.png 242w" sizes="(max-width: 600px) 242px, 484px"> <br/> XXI Cenáculo NcOrLx'  # title for frontpage, may include image
+copyright = "XXI Cenáculo NcOrLx"
+source = "https://github.com/D-Card/cenaculo-webpage"
+#author = "dcard"
+#authorurl = "https://dcard.pt"
+description = '3, 4 e 5 de março de 2023. Estás preparado?!'
+startbuttonText = "Inscrições"
+startbuttonLink = "https://forms.gle/PCM43gawCgQDEYA29"
+body_is_markdown = true
+#custom_css = "foo.css"
+#images = ["path_to_social_image_for_link_previews.jpg"]
+
+[[params.menu.main]]
+url = '/'
+title = "Página Inicial"
+
+[[params.menu.main]]
+url = '/img/horario.png'
+title = "Horário"
+
+[[params.menu.main]]
+url = 'informacoes-adicionais/local'
+title = "Local"
+
+[[params.menu.main]]
+url = 'angariacoes-fundo'
+title = "Angariações de Fundo"
+
+[[params.menu.main]]
+url = 'informacoes-adicionais/merch'
+title = "Merch Cenaculo"
+
+[[params.menu.main]]
+url = '/equipa-projeto/'
+title = "Equipa Projeto"
+
+[[params.menu.main]]
+url = 'informacoes-adicionais/atividades'
+title = "Atividades"
+
+[taxonomies]
+    tag = "tags"
+    category = "categories"
+    series = "series"
+
+
+[params.one]
+enable = true
+title = 'Olá Caminheiros!'
+href = "/equipa-projeto/"
+text = "clica aqui!"
+body = '''
+Bem-vindo/a ao XXI Ciclo de Cenáculo Oriental! Ao longo deste ciclo é nossa vontade ver-te mais envolvido/a em todo o caminho que a Equipa Projeto percorrerá e a dares voz às tuas vontades e ambições.  
+**Envolve-te!**  
+O Cenáculo é uma ferramenta pedagógica que te é proporcionada todos os anos para que:
+
+⚜️ Possas conhecer a realidade dos outros Clãs do Núcleo.  
+⚜️ Construas verdadeiras pontes nos teus trilhos, quando encontras um escolho intransponível.  
+⚜️ Vivas de todos os Caminheiros; Partilhes a tua caminhada e juntos avancem nos Rumos do Homem Novo.
+
+Recorre à Equipa Projeto sempre que precises, pois é de Caminheiros como Tu que ela se compõe. 
+
+A nossa ambição não é que participes, forçosamente, no XXI Ciclo. A nossa ambição é que chegues ao fim do XXI mais desperto, mais concretizado, mais Envolvido!
+
+
+Canhotas ÉpYcas,  
+XXI Ciclo Cenáculo do Núcleo Oriental de Lisboa
+'''
+
+special = false
+
+
+[params.two]
+enable = true
+
+[[params.two.section]]
+img = "img/house.jpg"
+title = 'Mapa da Colômbia'
+body = 'Vais precisar de um mapa e algumas indicações para não te perderes!'
+button = true
+
+[[params.two.section.link]]
+href = "informacoes-adicionais/imaginario"
+text = "Imaginário"
+
+[[params.two.section.link]]
+href = "informacoes-adicionais"
+text = "Infos Adicionais"
+
+[[params.two.section]]
+img = "img/candle.jpg"
+title = 'Biblioteca da Casa Madrigal'
+body = 'Aqui podes aprender e descobrir novos poderes.'
+button = true
+
+[[params.two.section.link]]
+href = "forum/carta-cenaculo"
+text = "Carta de Cenáculo"
+
+[[params.two.section.link]]
+href = "forum"
+text = "Fórum"
+
+[[params.two.section]]
+img = "img/tiger.jpg"
+title = 'Viagem até à Colômbia'
+body = 'Prepara-te para a viagem!'
+button = true
+
+[[params.two.section.link]]
+href = "informacoes-adicionais/local"
+text = "Local"
+
+[[params.two.section.link]]
+href = "angariacoes-fundo"
+text = "Angariações de Fundo"
+
+[params.three]
+enable = true
+title = 'Já conheces a EP?'
+body = '''
+Aqui podes conhecer um bocadinho de cada membro da EP. No cenáculo, esperamos
+conhecer-te a ti!
+'''
+
+[[params.three.feature]]
+icon = "fa-paper-plane-o"
+title = "Representantes"
+body = "André e Francisco"
+href = "equipa-projeto/representantes"
+text = "Conhece-os"
+
+
+[[params.three.feature]]
+icon = "fa-eye"
+title = "Observadores"
+body = "Ana e Nuno"
+href = "equipa-projeto/observadores"
+text = "Conhece-os"
+
+[[params.three.feature]]
+icon = "fa-star"
+title = "Fórum"
+body = "João e Maria"
+href = "equipa-projeto/forum"
+text = "Conhece-os"
+
+[[params.three.feature]]
+icon = "fa-gears"
+title = "Logística"
+body = "Lara e Leonor"
+href = "equipa-projeto/logistica"
+text = "Conhece-as"
+
+[[params.three.feature]]
+icon = "fa-microphone"
+title = "Animação"
+body = "Inês e Joana"
+href = "equipa-projeto/animacao"
+text = "Conhece-as"
+
+[[params.three.feature]]
+icon = "fa-laptop"
+title = "Comunicação"
+body = "Diogo e Jin"
+href = "equipa-projeto/comunicacao"
+text = "Conhece-os"
+
+[params.cta]
+enable = true
+title = "Do que é que estás à espera? Inscreve-te!"
+body = "Prepara a mochila e marca a data no calendário. Estamos à tua espera!"
+href = "https://forms.gle/PCM43gawCgQDEYA29"
+text = "Inscrever"
+special = true
+
+
+[params.contact]
+enable = true
+title = "Contacta-nos"
+body = "Ficaste com alguma dúvida? Envia-nos uma mensagem!"
+email = "cenaculo.oriental@escutismo.pt"
+subject = "Nova mensagem!"
+formspree_form_id = "xqkjlryg"
+
+[params.social]
+twitter = ""
+facebook = "cenac.ncorlx"
+instagram = "cenaculo.ncorlx"
+dribble = ""
+
+# language specific options
+
+[languages.en]
+weight = 0
+languageName = "English"
+
+[languages.de]
+weight = 10
+languageName = "Deutsch"

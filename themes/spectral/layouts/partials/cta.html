@@ -1,0 +1,18 @@
+{{ $md := .Site.Params.body_is_markdown | default false }}
+
+{{ with .Site.Params.cta }}
+{{ if .enable }}
+<section id="cta" class="wrapper style4">
+	<div class="inner">
+		<header>
+      <h2>{{ .title | safeHTML }}</h2>
+      {{ partial "body_text.html" (dict "context" . "md" $md) }}
+		</header>
+		<ul class="actions stacked">
+		<br>
+      	<li><a href="{{ .href }}" target="_blank" rel="noopener" class="button fit {{ if .special }}primary{{ end }}">{{ .text }}</a></li>
+		</ul>
+	</div>
+</section>
+{{ end }}
+{{ end }}
