@@ -9,14 +9,14 @@ googleAnalytics = "G-G847G6KWGL"
 [params]
 fancyTitle = '<img srcset="/img/logo.png 484w, /img/logo_sm.png 242w" sizes="(max-width: 600px) 242px, 484px"> <br/> XXI Cenáculo NcOrLx'  # title for frontpage, may include image
 copyright = "XXI Cenáculo NcOrLx"
-source = "https://github.com/D-Card/cenaculo-webpage"
-#author = "dcard"
-#authorurl = "https://dcard.pt"
+source = "https://github.com/CanIBeFii/cenaculo_NcOrLx_site"
+# author = "CanIBeFii"
+# authorurl = "https://github.com/CanIBeFii"
 description = '3, 4 e 5 de março de 2023. Estás preparado?!'
 startbuttonText = "Inscrições"
 startbuttonLink = "https://forms.gle/PCM43gawCgQDEYA29"
 body_is_markdown = true
-#custom_css = "foo.css"
+# custom_css = "foo.css"
 #images = ["path_to_social_image_for_link_previews.jpg"]
 
 [[params.menu.main]]
