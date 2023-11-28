@@ -49,7 +49,7 @@ title = "Atividades"
 
 [[params.menu.main]]
 url = "https://cenaculo.netlify.app/"
-title = "Cenáculo 2022"
+title = "Cenáculo XXI"
 
 [taxonomies]
     tag = "tags"
