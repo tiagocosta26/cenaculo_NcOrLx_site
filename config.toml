@@ -47,6 +47,10 @@ title = "Equipa Projeto"
 url = 'informacoes-adicionais/atividades'
 title = "Atividades"
 
+[[params.menu.main]]
+url = "https://cenaculo.netlify.app/"
+title = "Cenáculo 2022"
+
 [taxonomies]
     tag = "tags"
     category = "categories"
