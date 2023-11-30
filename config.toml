@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "XXI Cenáculo NcOrLx"
+title = "XXII Cenáculo NcOrLx"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 paginate = "7"
@@ -7,12 +7,12 @@ theme = "spectral"
 googleAnalytics = "G-G847G6KWGL"
 
 [params]
-fancyTitle = '<img srcset="/img/logo.png 484w, /img/logo_sm.png 242w" sizes="(max-width: 600px) 242px, 484px"> <br/> XXI Cenáculo NcOrLx'  # title for frontpage, may include image
-copyright = "XXI Cenáculo NcOrLx"
+fancyTitle = '<img srcset="/img/logo.png 484w, /img/logo_sm.png 242w" sizes="(max-width: 600px) 242px, 484px"> <br/> XXII Cenáculo NcOrLx'  # title for frontpage, may include image
+copyright = "XXII Cenáculo NcOrLx"
 source = "https://github.com/CanIBeFii/cenaculo_NcOrLx_site"
 # author = "CanIBeFii"
 # authorurl = "https://github.com/CanIBeFii"
-description = '3, 4 e 5 de março de 2023. Estás preparado?!'
+description = '1, 2 e 4 de março de 2024. Estás preparado?!'
 startbuttonText = "Inscrições"
 startbuttonLink = "https://forms.gle/PCM43gawCgQDEYA29"
 body_is_markdown = true
@@ -63,7 +63,7 @@ title = 'Olá Caminheiros!'
 href = "/equipa-projeto/"
 text = "clica aqui!"
 body = '''
-Bem-vindo/a ao XXI Ciclo de Cenáculo Oriental! Ao longo deste ciclo é nossa vontade ver-te mais envolvido/a em todo o caminho que a Equipa Projeto percorrerá e a dares voz às tuas vontades e ambições.  
+Bem-vindo/a ao XXII Ciclo de Cenáculo Oriental! Ao longo deste ciclo é nossa vontade ver-te mais envolvido/a em todo o caminho que a Equipa Projeto percorrerá e a dares voz às tuas vontades e ambições.  
 **Envolve-te!**  
 O Cenáculo é uma ferramenta pedagógica que te é proporcionada todos os anos para que:
 
@@ -73,11 +73,11 @@ O Cenáculo é uma ferramenta pedagógica que te é proporcionada todos os anos 
 
 Recorre à Equipa Projeto sempre que precises, pois é de Caminheiros como Tu que ela se compõe. 
 
-A nossa ambição não é que participes, forçosamente, no XXI Ciclo. A nossa ambição é que chegues ao fim do XXI mais desperto, mais concretizado, mais Envolvido!
+A nossa ambição não é que participes, forçosamente, no XXII Ciclo. A nossa ambição é que chegues ao fim do XXII mais desperto, mais concretizado, mais Envolvido!
 
 
 Canhotas ÉpYcas,  
-XXI Ciclo Cenáculo do Núcleo Oriental de Lisboa
+XXII Ciclo Cenáculo do Núcleo Oriental de Lisboa
 '''
 
 special = false
@@ -129,7 +129,7 @@ href = "angariacoes-fundo"
 text = "Angariações de Fundo"
 
 [[params.two.section]]
-img = "img/tiger.jpg"
+img = "img/candle.jpg"
 title = 'Atividades'
 body = 'Repertório de atividades nacionais, regionais e de núcleo para caminheiros!'
 button = true
@@ -152,7 +152,6 @@ title = "Representantes"
 body = "André e Francisco"
 href = "equipa-projeto/representantes"
 text = "Conhece-os"
-
 
 [[params.three.feature]]
 icon = "fa-eye"
