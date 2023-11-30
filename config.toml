@@ -130,17 +130,13 @@ text = "Angariações de Fundo"
 
 [[params.two.section]]
 img = "img/tiger.jpg"
-title = 'Actividades'
-body = 'Atividades aqui!'
+title = 'Atividades'
+body = 'Repertório de atividades nacionais, regionais e de núcleo para caminheiros!'
 button = true
 
 [[params.two.section.link]]
 href = "informacoes-adicionais/atividades"
 text = "Atividades"
-
-[[params.two.section.link]]
-href = "informacoes-adicionais/local"
-text = "Atividades Maybe"
 
 [params.three]
 enable = true
