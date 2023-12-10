@@ -48,9 +48,9 @@ url = "https://cenaculo.netlify.app/"
 title = "Ciclos Passados"
 
 [taxonomies]
-tag = "tags"
-category = "categories"
-series = "series"
+	tag = "tags"
+	category = "categories"
+	series = "series"
 
 
 [params.one]
@@ -111,7 +111,7 @@ href = "informacoes-adicionais/em-construcao"
 text = "INSCRIÇÃO"
 
 [[params.two.section.link]]
-href = "angariacoes-fundo/em-construcao"
+href = "informacoes-adicionais/em-construcao"
 text = "INFORMAÇÕES"
 
 [[params.two.section]]
