@@ -83,49 +83,49 @@ special = false
 enable = true
 
 [[params.two.section]]
-img = "img/house.jpg"
+img = "img/angariacoes.jpg"
 title = 'ANGARIAÇÕES DE FUNDO'
 body = 'Não vão faltar momentos de partilha entre o núcleo!'
 button = true
 
 [[params.two.section.link]]
-href = "informacoes-adicionais/imaginario"
+href = "informacoes-adicionais/em-construcao"
 text = "JUNTARADA"
 
 [[params.two.section.link]]
-href = "informacoes-adicionais"
+href = "informacoes-adicionais/em-construcao"
 text = "CINEMA"
 
 [[params.two.section.link]]
-href = "informacoes-adicionais"
+href = "informacoes-adicionais/em-construcao"
 text = "CAFÉ CONCERTO"
 
 [[params.two.section]]
-img = "img/tiger.jpg"
+img = "img/encontro-local.jpg"
 title = 'ENCONTRO LOCAL'
 body = 'Todos os caminhos vão dar ao Encontro Local :)'
 button = true
 
 [[params.two.section.link]]
-href = "informacoes-adicionais/local"
+href = "informacoes-adicionais/em-construcao"
 text = "INSCRIÇÃO"
 
 [[params.two.section.link]]
-href = "angariacoes-fundo"
+href = "angariacoes-fundo/em-construcao"
 text = "INFORMAÇÕES"
 
 [[params.two.section]]
-img = "img/candle.jpg"
+img = "img/equipa-projeto.jpg"
 title = 'EQUIPA PROJETO'
 body = 'Conhece um pouco sobre cada membro da EP!'
 button = true
 
 [[params.two.section.link]]
-href = "forum/carta-cenaculo"
+href = "informacoes-adicionais/em-construcao"
 text = "EQUIPA PROJETO"
 
 [[params.two.section]]
-img = "img/candle.jpg"
+img = "img/carta-cenaculo.jpg"
 title = 'CARTA DE CENÁCULO'
 body = '''Aqui podes aceder à carta de cenáculo.
 
@@ -133,7 +133,7 @@ No reportório podes encontrar diversas atividades para caminheiros, a nível na
 button = true
 
 [[params.two.section.link]]
-href = "informacoes-adicionais/atividades"
+href = "informacoes-adicionais/em-construcao"
 text = "CARTA DE CENÁCULO"
 
 [[params.two.section.link]]
