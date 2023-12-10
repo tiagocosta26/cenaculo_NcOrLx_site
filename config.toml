@@ -24,19 +24,11 @@ url = '/'
 title = "Página Inicial"
 
 [[params.menu.main]]
-url = 'informacoes-adicionais/local'
-title = "Local e Datas"
-
-[[params.menu.main]]
-url = 'angariacoes-fundo'
-title = "Angariações de Fundo"
-
-[[params.menu.main]]
 url = 'informacoes-adicionais/merch'
 title = "Merch Cenaculo"
 
 [[params.menu.main]]
-url = '/equipa-projeto/'
+url = '/informacoes-adicionais/em-construcao'
 title = "Equipa Projeto"
 
 [[params.menu.main]]
