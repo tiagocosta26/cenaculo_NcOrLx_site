@@ -12,9 +12,9 @@ copyright = "XXII Cenáculo NcOrLx"
 source = "https://github.com/CanIBeFii/cenaculo_NcOrLx_site"
 # author = "CanIBeFii"
 # authorurl = "https://github.com/CanIBeFii"
-description = '1, 2 e 3 de março de 2024. Estás preparado?!'
-startbuttonText = "Inscrições"
-startbuttonLink = "https://forms.gle/PCM43gawCgQDEYA29"
+# description = '1, 2 e 3 de março de 2024. Estás preparado?!' # description below title on frontpage
+# startbuttonText = "Inscrições"  # text on the start button
+# startbuttonLink = "https://forms.gle/PCM43gawCgQDEYA29"
 body_is_markdown = true
 # custom_css = "foo.css"
 #images = ["path_to_social_image_for_link_previews.jpg"]
@@ -24,23 +24,11 @@ url = '/'
 title = "Página Inicial"
 
 [[params.menu.main]]
-url = '/img/horario.png'
-title = "Horário"
-
-[[params.menu.main]]
-url = 'informacoes-adicionais/local'
-title = "Local"
-
-[[params.menu.main]]
-url = 'angariacoes-fundo'
-title = "Angariações de Fundo"
-
-[[params.menu.main]]
 url = 'informacoes-adicionais/merch'
 title = "Merch Cenaculo"
 
 [[params.menu.main]]
-url = '/equipa-projeto/'
+url = '/informacoes-adicionais/em-construcao'
 title = "Equipa Projeto"
 
 [[params.menu.main]]
@@ -49,12 +37,12 @@ title = "Atividades"
 
 [[params.menu.main]]
 url = "https://cenaculo.netlify.app/"
-title = "Cenáculo XXI"
+title = "Ciclos Passados"
 
 [taxonomies]
-    tag = "tags"
-    category = "categories"
-    series = "series"
+	tag = "tags"
+	category = "categories"
+	series = "series"
 
 
 [params.one]
@@ -63,21 +51,14 @@ title = 'Olá Caminheiros!'
 href = "/equipa-projeto/"
 text = "clica aqui!"
 body = '''
-Bem-vindo/a ao XXII Ciclo de Cenáculo Oriental! Ao longo deste ciclo é nossa vontade ver-te mais envolvido/a em todo o caminho que a Equipa Projeto percorrerá e a dares voz às tuas vontades e ambições.  
-**Envolve-te!**  
-O Cenáculo é uma ferramenta pedagógica que te é proporcionada todos os anos para que:
+Bem-vindos ao XXII Ciclo de Cenáculo do Núcleo Oriental de Lisboa! O Cenáculo existe com o intuito de nos ajudar a desenvolver o nosso poder para fazermos parte da mudança e construirmos juntos, a realidade que desejamos. No XXII Ciclo esperamos que acreditem neste vosso poder e venham fazer este caminho de descoberta e aprendizagem connosco.
 
-⚜️ Possas conhecer a realidade dos outros Clãs do Núcleo.  
-⚜️ Construas verdadeiras pontes nos teus trilhos, quando encontras um escolho intransponível.  
-⚜️ Vivas de todos os Caminheiros; Partilhes a tua caminhada e juntos avancem nos Rumos do Homem Novo.
+Sempre que precisem a EP está cá para vos apoiar, somos caminheiros como vocês portanto não hesitem em falar com qualquer um de nós!
 
-Recorre à Equipa Projeto sempre que precises, pois é de Caminheiros como Tu que ela se compõe. 
+"Para fazer algo especial só precisas de acreditar que é especial." **Acredita**, **Partilha Y Avança**!
 
-A nossa ambição não é que participes, forçosamente, no XXII Ciclo. A nossa ambição é que chegues ao fim do XXII mais desperto, mais concretizado, mais Envolvido!
-
-
-Canhotas ÉpYcas,  
-XXII Ciclo Cenáculo do Núcleo Oriental de Lisboa
+Canhotas AmYgas,
+Equipa Projeto do XXII Ciclo de Cenáculo do Núcleo Oriental
 '''
 
 special = false
@@ -87,115 +68,62 @@ special = false
 enable = true
 
 [[params.two.section]]
-img = "img/house.jpg"
-title = 'Mapa da Colômbia'
-body = 'Vais precisar de um mapa e algumas indicações para não te perderes!'
+img = "img/angariacoes.jpg"
+title = 'ANGARIAÇÕES DE FUNDOS'
+body = 'Não vão faltar momentos de partilha entre o núcleo!'
 button = true
 
 [[params.two.section.link]]
-href = "informacoes-adicionais/imaginario"
-text = "Imaginário"
+href = "informacoes-adicionais/em-construcao"
+text = "JUNTARADA"
 
 [[params.two.section.link]]
-href = "informacoes-adicionais"
-text = "Infos Adicionais"
+href = "informacoes-adicionais/em-construcao"
+text = "CINEMA"
+
+[[params.two.section.link]]
+href = "informacoes-adicionais/em-construcao"
+text = "CAFÉ CONCERTO"
 
 [[params.two.section]]
-img = "img/candle.jpg"
-title = 'Biblioteca da Casa Madrigal'
-body = 'Aqui podes aprender e descobrir novos poderes.'
+img = "img/encontro-local.jpg"
+title = 'ENCONTRO LOCAL'
+body = 'Todos os caminhos vão dar ao Encontro Local :)'
+button = true
+
+[[params.two.section.link]]
+href = "informacoes-adicionais/em-construcao"
+text = "INSCRIÇÃO"
+
+[[params.two.section.link]]
+href = "informacoes-adicionais/em-construcao"
+text = "INFORMAÇÕES"
+
+[[params.two.section]]
+img = "img/equipa-projeto.jpg"
+title = 'EQUIPA PROJETO'
+body = 'Conhece um pouco sobre cada membro da EP!'
+button = true
+
+[[params.two.section.link]]
+href = "informacoes-adicionais/em-construcao"
+text = "EQUIPA PROJETO"
+
+[[params.two.section]]
+img = "img/carta-cenaculo.jpg"
+title = 'CARTA DE CENÁCULO'
+body = '''Aqui podes aceder à carta de cenáculo.
+
+No reportório podes encontrar diversas atividades para caminheiros, a nível nacional ou regional.'''
 button = true
 
 [[params.two.section.link]]
 href = "forum/carta-cenaculo"
-text = "Carta de Cenáculo"
-
-[[params.two.section.link]]
-href = "forum"
-text = "Fórum"
-
-[[params.two.section]]
-img = "img/tiger.jpg"
-title = 'Viagem até à Colômbia'
-body = 'Prepara-te para a viagem!'
-button = true
-
-[[params.two.section.link]]
-href = "informacoes-adicionais/local"
-text = "Local"
-
-[[params.two.section.link]]
-href = "angariacoes-fundo"
-text = "Angariações de Fundo"
-
-[[params.two.section]]
-img = "img/candle.jpg"
-title = 'Atividades'
-body = 'Repertório de atividades nacionais, regionais e de núcleo para caminheiros!'
-button = true
+text = "CARTA DE CENÁCULO"
 
 [[params.two.section.link]]
 href = "informacoes-adicionais/atividades"
-text = "Atividades"
-
-[params.three]
-enable = true
-title = 'Já conheces a EP?'
-body = '''
-Aqui podes conhecer um bocadinho de cada membro da EP. No cenáculo, esperamos
-conhecer-te a ti!
-'''
-
-[[params.three.feature]]
-icon = "fa-paper-plane-o"
-title = "Representantes"
-body = "André e Francisco"
-href = "equipa-projeto/representantes"
-text = "Conhece-os"
-
-[[params.three.feature]]
-icon = "fa-eye"
-title = "Observadores"
-body = "Ana e Nuno"
-href = "equipa-projeto/observadores"
-text = "Conhece-os"
-
-[[params.three.feature]]
-icon = "fa-star"
-title = "Fórum"
-body = "João e Maria"
-href = "equipa-projeto/forum"
-text = "Conhece-os"
-
-[[params.three.feature]]
-icon = "fa-gears"
-title = "Logística"
-body = "Lara e Leonor"
-href = "equipa-projeto/logistica"
-text = "Conhece-as"
-
-[[params.three.feature]]
-icon = "fa-microphone"
-title = "Animação"
-body = "Inês e Joana"
-href = "equipa-projeto/animacao"
-text = "Conhece-as"
-
-[[params.three.feature]]
-icon = "fa-laptop"
-title = "Comunicação"
-body = "Diogo e Jin"
-href = "equipa-projeto/comunicacao"
-text = "Conhece-os"
-
-[params.cta]
-enable = true
-title = "Do que é que estás à espera? Inscreve-te!"
-body = "Prepara a mochila e marca a data no calendário. Estamos à tua espera!"
-href = "https://forms.gle/PCM43gawCgQDEYA29"
-text = "Inscrever"
-special = true
-
+text = "REPORTÓRIO DE ATIVIDADES"
 
 [params.contact]
 enable = true
