@@ -22,20 +22,11 @@ Compra [aqui](https://forms.gle/6xbQDNrRmZgpY41P7)
 
 ---
 
-{{< figure src="/img/kispo.png" height="300px" width="500px" class="wrap-right" >}}
+<!--{{< figure src="/img/kispo.png" height="300px" width="500px" class="wrap-right" >}}
 ​
 O Kispo do Núcleo Oriental de Lisboa traz uma oportunidade de adquirir uma peça diferente, que não seja apenas mais uma sweatshirt. Trazemos-te um kispo impermeável e com forro! Para que possas usar em dias de frio e/ou de chuva.
 
 Adquire-o e usa-o em todos os Ciclos de Cenáculo!
 
-​Custo do casaco: 28€  
-Compra [aqui](https://forms.gle/t3eiRHzuXLBN5XXa9)
-​  
-​  
-​  
-​  
-​  
-​  
-​
-​  
-​
+​Custo do casaco: 28€
+Compra [aqui](https://forms.gle/t3eiRHzuXLBN5XXa9) -->
