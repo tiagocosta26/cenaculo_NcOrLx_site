@@ -51,21 +51,14 @@ title = 'Olá Caminheiros!'
 href = "/equipa-projeto/"
 text = "clica aqui!"
 body = '''
-Bem-vindo/a ao XXII Ciclo de Cenáculo Oriental! Ao longo deste ciclo é nossa vontade ver-te mais envolvido/a em todo o caminho que a Equipa Projeto percorrerá e a dares voz às tuas vontades e ambições.  
-**Envolve-te!**  
-O Cenáculo é uma ferramenta pedagógica que te é proporcionada todos os anos para que:
+Bem-vindos ao XXII Ciclo de Cenáculo do Núcleo Oriental de Lisboa! O Cenáculo existe com o intuito de nos ajudar a desenvolver o nosso poder para fazermos parte da mudança e construirmos juntos, a realidade que desejamos. No XXII Ciclo esperamos que acreditem neste vosso poder e venham fazer este caminho de descoberta e aprendizagem connosco.
 
-⚜️ Possas conhecer a realidade dos outros Clãs do Núcleo.  
-⚜️ Construas verdadeiras pontes nos teus trilhos, quando encontras um escolho intransponível.  
-⚜️ Vivas de todos os Caminheiros; Partilhes a tua caminhada e juntos avancem nos Rumos do Homem Novo.
+Sempre que precisem a EP está cá para vos apoiar, somos caminheiros como vocês portanto não hesitem em falar com qualquer um de nós!
 
-Recorre à Equipa Projeto sempre que precises, pois é de Caminheiros como Tu que ela se compõe. 
+"Para fazer algo especial só precisas de acreditar que é especial." **Acredita**, **Partilha Y Avança**!
 
-A nossa ambição não é que participes, forçosamente, no XXII Ciclo. A nossa ambição é que chegues ao fim do XXII mais desperto, mais concretizado, mais Envolvido!
-
-
-Canhotas ÉpYcas,  
-XXII Ciclo Cenáculo do Núcleo Oriental de Lisboa
+Canhotas AmYgas,
+Equipa Projeto do XXII Ciclo de Cenáculo do Núcleo Oriental
 '''
 
 special = false
@@ -76,7 +69,7 @@ enable = true
 
 [[params.two.section]]
 img = "img/angariacoes.jpg"
-title = 'ANGARIAÇÕES DE FUNDO'
+title = 'ANGARIAÇÕES DE FUNDOS'
 body = 'Não vão faltar momentos de partilha entre o núcleo!'
 button = true
 
@@ -125,7 +118,7 @@ No reportório podes encontrar diversas atividades para caminheiros, a nível na
 button = true
 
 [[params.two.section.link]]
-href = "informacoes-adicionais/em-construcao"
+href = "forum/carta-cenaculo"
 text = "CARTA DE CENÁCULO"
 
 [[params.two.section.link]]
