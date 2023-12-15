@@ -18,11 +18,34 @@ Neste contexto, o adro pretende proporcionar espaços regulares de alcance e par
 
 ---
 
+### Inscrições
+
+## 1ª Fase
+
+**Fim**: 31 de Dezembro de 2023
+
+## 2ª Fase
+
+**Inicio**: 01 de Janeiro de 2024\
+**Fim**: 14 de Janeiro de 2024
+
+---
+
 ### Datas e Localizações
 
 03 a 04 de Fevereiro de 2023
 
-Almada
+[Almada - Região de Setúbal](https://maps.app.goo.gl/PFR9wg4QaNHpdMA1A)
+
+---
+
+### Preços
+
+**Atividade**: 10,00€ (1ª fase) e 12,50€ (2ª fase)\
+**Quarto (duplo ou triplo)**: 19€\
+**Acantonamento**: 3€\
+**Refeições**: 20€ (Pacote normal e Vegetariano)
+
 
 ---
 
