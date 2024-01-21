@@ -5,14 +5,13 @@ title = "Café Concerto"
 description = "Café Concerto"
 +++
 
-O Cenáculo aproxima-se mas antes disso temos o nosso Café Concerto!
+Aqui temos o grande café concerto que claramente não podia faltar!
+Num encontro divertido entre o Oriental, podes contar com comida, convívio e muita música. 
 
-<!--more-->
+Aqui vamos ter atuações dos melhores clãs que conseguirmos encontrar.
 
-O local já está escolhido. Aguarda por mais informações.
+Estamos ansiosos para vos ver no café concerto. Contamos contigo e com a tua animação!
 
-**Local: Igreja São João de Deus  
-Dia: 04 de Fevereiro de 2023  
-Hora : 20h30**
-
-Esperamos por ti!
+**Dia:** 17 Fevereiro 2024 🗓️ \
+**Hora:** ????? \
+**Local:** ?????
