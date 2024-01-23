@@ -3,6 +3,7 @@ weight = 1
 author = "Equipa Projeto"
 title = "Triumphum"
 description = "Triumphum"
+summary = '''O **Triumphum** é uma atividade de competição de técnica escutista da IV Secção.'''
 +++
 
 ### Descrição

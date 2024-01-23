@@ -3,6 +3,7 @@ weight = 1
 author = "Equipa Projeto"
 title = "ViriaTU's"
 description = "ViriaTU's"
+summary = '''O **ViriaTU's** é uma Atividade organizada pela Região de Viseu, aberta a caminheiros de outras regiões, que procura viver o caminheirismo em várias vertentes.'''
 +++
 
 ### Descrição

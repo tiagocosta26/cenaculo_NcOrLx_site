@@ -3,6 +3,7 @@ weight = 1
 author = "Equipa Projeto"
 title = "c'ACE"
 description = "c'ACE"
+summary = '''O **c'ACE** é uma atividade de Serviço destinada a Caminheiros, Candidatos a Dirigentes e Dirigentes do CNE, sem custo para os participantes. A ideia é promover o convívio entre todos, enquanto se deixa o ACE um pouco melhor!'''
 +++
 
 ### Descrição
