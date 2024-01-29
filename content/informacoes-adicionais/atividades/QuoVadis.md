@@ -3,6 +3,7 @@ weight = 1
 author = "Equipa Projeto"
 title = "QuoVadis"
 description = "QuoVadis"
+summary = '''O **Quo Vadis** é uma atividade realizada pelo Clã nº10 de Stª Maria com a colaboração do Agr. 0604. Esta atividade direcionada para Caminheiros/ Companheiros, CD e Dirigentes baseou-se, desde o primeiro momento, em histórias maravilhosas e de pura fantasia. Daí ser unanimemente considerada uma atividade essencial e de carácter único na vivência da IV secção.'''
 +++
 
 ### Descrição

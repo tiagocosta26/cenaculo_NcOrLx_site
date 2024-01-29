@@ -3,6 +3,7 @@ weight = 1
 author = "Equipa Projeto"
 title = "Vertical"
 description = "Vertical"
+summary = '''O **VERTICAL** é um torneio de conhecimento e vivências escutistas, destinado a Exploradores, Pioneiros e Caminheiros.'''
 +++
 
 ### Descrição

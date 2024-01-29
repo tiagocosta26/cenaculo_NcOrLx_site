@@ -1,4 +1,4 @@
 +++
-title = "Atividades"
-subtitle = "Descobre todas estas atividades fantasticas"
+title = "Reportório de Oportunidades"
+subtitle = "Descobre todas estas oportunidades fantasticas"
 +++

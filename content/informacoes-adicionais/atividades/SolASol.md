@@ -3,6 +3,7 @@ weight = 1
 author = "Equipa Projeto"
 title = "Sol a Sol"
 description = "Sol a Sol"
+summary = '''O **Sol a Sol** é uma semana de serviço e (re)construção, não só física como também espiritual, na aldeia Drave.'''
 +++
 
 ### Descrição

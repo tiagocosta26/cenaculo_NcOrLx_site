@@ -3,6 +3,7 @@ weight = 1
 author = "Equipa Projeto"
 title = "Down River"
 description = "Down River"
+summary = '''O **Down River** é uma atividade destinada a todos os escuteiros, escoteiros e guias com mais de 14 anos de idade, de qualquer ponto do país, que estejam à procura de uma atividade aliciante para o início das atividades escutistas e para a despedida do Verão.'''
 +++
 
 ### Descrição

@@ -1,22 +1,18 @@
 +++
 weight = 1
-author = "Equipa Projeto"
-title = "Cinema - Encanto"
-description = "Cinema - Encanto"
+author = "Angariações de Fundo"
+title = "Cinema"
+description = "Cinema"
 +++
 
-Uma noite de "Cinema Encantado"? Leste bem, é isso mesmo que temos para ti!
+Como deves saber o imaginário deste ciclo é o Panda do Kung Fu! 
 
-<!--more-->
+O cinema é uma oportunidade de nos aproximarmos como núcleo, aproveitando para conhecer ou recordar os filmes e os valores por detrás dos mesmos.
 
-A EP do XXI Ciclo organizou uma noite de cinema para todos os caminheiros do NcOrLx
+Não te esqueças do teu colchonete/esteira e saco-cama. Contamos contigo!
 
-**Dia - 27 de Janeiro 🗓️  
-Hora: 21h30  
-Local: Igreja São João de Deus**
+---
 
-Está tudo pronto para vos receber numa noite divertida. É uma boa desculpa para juntar o "Clã do Núcleo", o que achas?
-
-Leva o teu saco cama e colchonete e aparece!
-
-Inscrições [aqui](https://noite-encantada.cenaculoncorlx.pt/).
+**Dia:** 26 de Janeiro de 2024 🗓️ \
+**Hora:** 21h00 \
+**Local:** Salão Paroquial de Nossa Senhora da Penha de França

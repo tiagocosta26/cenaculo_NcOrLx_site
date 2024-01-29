@@ -3,6 +3,8 @@ weight = 1
 author = "Equipa Projeto"
 title = "Adro"
 description = "Adro"
+summary = '''O **Adro** surge da consciência da identidade católica do CNE e da reflexão sobre a realidade atual do CNE, segundo as quais é fundamental investir-se na formação pessoal e espiritual dos adultos com vista a uma mais adequada e profunda animação e vivência da fé nas nossas unidades e agrupamentos.
+'''
 +++
 
 ### Descrição

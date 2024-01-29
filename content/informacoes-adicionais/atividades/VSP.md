@@ -3,6 +3,7 @@ weight = 1
 author = "Equipa Projeto"
 title = "VSP"
 description = "VSP"
+summary = '''O **Vive, Serve e Progride (VSP)** é uma atividade que nasceu do Cenáculo da Região de  Santarém, e é uma atividade de serviço e progresso pessoal, organizada por caminheiros para caminheiros.'''
 +++
 
 ### Descrição
