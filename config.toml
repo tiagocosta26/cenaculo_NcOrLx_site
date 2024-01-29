@@ -33,7 +33,7 @@ title = "Equipa Projeto"
 
 [[params.menu.main]]
 url = 'informacoes-adicionais/atividades'
-title = "Reportório de Atividades"
+title = "Reportório de Oportunidades"
 
 [[params.menu.main]]
 url = "https://cenaculo.netlify.app/"
