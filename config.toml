@@ -123,7 +123,7 @@ text = "CARTA DE CENÁCULO"
 
 [[params.two.section.link]]
 href = "informacoes-adicionais/atividades"
-text = "REPORTÓRIO DE ATIVIDADES"
+text = "REPORTÓRIO DE OPORTUNIDADES"
 
 [params.contact]
 enable = true
