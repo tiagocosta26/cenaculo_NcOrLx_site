@@ -28,7 +28,7 @@ url = 'informacoes-adicionais/merch'
 title = "Merch Cenaculo"
 
 [[params.menu.main]]
-url = '/informacoes-adicionais/em-construcao'
+url = '/equipa-projeto/'
 title = "Equipa Projeto"
 
 [[params.menu.main]]

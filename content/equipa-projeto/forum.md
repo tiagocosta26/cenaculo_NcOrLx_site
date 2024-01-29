@@ -1,33 +1,30 @@
 +++
 author = "Equipa Projeto"
 title = "Fórum"
-subtitle = "Conhece a Maria e o João!"
+subtitle = "Conhece a Catarina e o Margarida!"
 description = "Fórum"
 +++
+
+O Fórum recolhe problemas identificados pelos clãs e sugestões de temas para depois estruturar o centro do cenáculo, o “fórum”. Cabe também ao fórum, moderar todas as seções e garantir a criação da carta de cenáculo.
+
+---
 
 <!--more-->
 
 {{< figure src="/img/team/maria.jpeg" height="300px" width="300px" class="wrap-left">}}
 ​​​  
-Esta é a Maria.
-Entrou nos escuteiros em 2008, e neste momento, para além de caminheira, faz parte da Equipa Projeto do XXI Ciclo. Gosta de acampar e de viajar.  
-​​​  
-​  
-​
-_"Espero que com este ciclo possa terminar a minha caminhada deixando a minha marca!”_
-​  
-​
+Olá Camis, espero que estejam super entusiasmados para mais um Cenáculo! Sou a **Catarina Torres** do agrupamento 541 - Pio XII e sou escuteira desde 2012. 
+A personagem do Panda do Kung Fu que sinto que me é mais próxima é a Mestre _Tigresa_, muito desconfiada ao início, mas que aos poucos se abre ao Po, nunca deixando de lado a sua precisão (ainda que exagerando um pouco na força de vez em quando ahahah)
+Deste cenáculo espero ajudar a trazer ao de cima a voz e a crítica de todos os elementos do nosso clã de núcleo para a construção de uma Carta de Cenáculo coesa e clara.
+Let's Go?
+
 
 ---
 
 {{< figure src="/img/team/joao.jpeg" height="300px" width="300px" class="wrap-right" >}}
 ​  
-Este é o João.
-Entrou nos escuteiros em 2009, e neste momento, para além de caminheiro, faz parte da Equipa Projeto do XXI Ciclo. Gosta de andar e de ler, embora nem leia assim tanto.
-​  
-​  
-​  
-​  
-_“Provavelmente vão estranhar, mas depois vai entranhar-se em vocês! Não se levem demasiado a sério e divirtam-se neste Ciclo!"_
-​  
+Alô malta, sou a **Margarida** do 63. Entrei nos escuteiros há mais ou menos 10 anos.
+Identifico-me mais com o _Louva_ porque tal como ele era uma pessoa extremamente impaciente (ainda sou um pouco), até aprender que o nosso ouro está na paciência. Também somos os dois muito rápidos, Kachow! 
+Espero fazer deste cenáculo um momento mudança para os elementos. Não esquecendo nunca a frase “o sucesso desta atividade depende de nós”!
+
 ​

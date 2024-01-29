@@ -1,36 +1,28 @@
 +++
 author = "Equipa Projeto"
 title = "Logística"
-subtitle = "Conhece a Leonor e a Lara!"
+subtitle = "Conhece o Filipe e o Sant'Ana!"
 description = "Logística"
 +++
+
+A Logística planeia e estrutura todas as questões que implicam na experiência dos participantes no ciclo, ou seja, escolha de local, ementas, e transporte. Redigem também um orçamento e gerem os fundos do ciclo. Relacionam-se com todos os fornecedores e patrocinadores.
+
+---
 
 <!--more-->
 
 {{< figure src="/img/team/leonor.jpeg" height="300px" width="300px" class="wrap-left">}}
 ​  
-Esta é a Leonor.
-Entrou nos escuteiros em 2007, e neste momento, para além de caminheira, faz parte da Equipa Projeto do XXI Ciclo. Gosta de viajar e de descobrir novas praias.
-​  
-​  
-​  
-_“Para mim o Cenáculo é a partilha de ideais em busca do Homem Novo.”_
-​  
-​
-​
-​  
-​
+Alo lindos, eu sou o **Filipe Mendes**, comecei o meu caminho no escutismo no 42 Penha de França em 2010.
+Identifico-me muito com o _Mr. Ping_ ( pai do Po ), pela sua personalidade, humor e por ser tão afectivo com os outros,
+Neste ciclo espero conseguir ajudar o Nucleo a ficar mais proximo e que a partilha de experiencias e ideias seja natural
+
 
 ---
 
 {{< figure src="/img/team/lara.jpeg" height="300px" width="300px" class="wrap-right" >}}
 ​  
-Esta é a Lara.
-Entrou nos escuteiros em 2010, e neste momento, para além de caminheira, faz parte da Equipa Projeto do XXI Ciclo. Gosta de ler e de ajudar o próximo, o que a levou ao curso de Serviço Social.
-​  
-​  
-​  
-_"O cenáculo é onde conseguimos ter a oportunidade de nos desenvolvermos enquanto caminheiros e membros ativos da sociedade."_
-​  
-​  
+Hello Caminheiros!
+Sou o **João Sant'Ana** do 683-Telheiras e sou escuteiro desde 2012. Neste ciclo do Oriental faço parte da Logística.
+A personagem com que mais me identifico nos filmes do Panda do Kung Fu é o _Louva_, por ser calmo e paciente, e porque muitas vezes passa despercebido, mas acaba por ser essencial para o sucesso do grupo. É isso que quero neste ciclo: tornar-me útil, e ajudar a proporcionar-vos uma atividade incrível. Uma forte canhota a todos.
 ​
