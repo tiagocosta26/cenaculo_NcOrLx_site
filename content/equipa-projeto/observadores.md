@@ -20,10 +20,8 @@ aconselha e orienta
 Uma das frases que mais gosto é “ "Se você só fizer o que sabe, não vai ser nada além do que já é", porque nos relembra que temos que sair da nossa zona de conforto para ir mais além
 O que espero deste cenáculo é que vocês caminheiros continuem a traçar o vosso caminho, fazendo ouvir a vossa voz, cada vez mais alto e mais além, quer no CNE, quer na sociedade, e que eu enquanto observadora e com a ajuda do Pai, consiga aconselhar-vos sempre que precisarem. Este imaginário é rico em mensagens, por isso termino com 3 frases dos filmes, “Nada acontece por acaso” “Só precisas de acreditar” "Perdemos muito tempo procurando uma fórmula secreta que nos torne poderosos quando na verdade o poder está ... em nós mesmos!”
 
-​
 
 ---
-
 {{< figure src="/img/equipa-projeto/mac.jpg" height="300px" width="300px" class="wrap-right" >}}
 ​  
 Chamo-me **Nuno Alves** - «**Mac**», para os escuteiros - e sou Dirigente do Agrupamento 42 - Penha de França. 

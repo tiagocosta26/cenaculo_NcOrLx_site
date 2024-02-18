@@ -17,6 +17,7 @@ Alo lindos, eu sou o **Filipe Mendes**, comecei o meu caminho no escutismo no 42
 Identifico-me muito com o _Mr. Ping_ ( pai do Po ), pela sua personalidade, humor e por ser tão afectivo com os outros,
 Neste ciclo espero conseguir ajudar o Nucleo a ficar mais proximo e que a partilha de experiencias e ideias seja natural
 
+¨
 
 ---
 
