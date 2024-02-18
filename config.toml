@@ -28,7 +28,7 @@ url = 'informacoes-adicionais/merch'
 title = "Merch Cenaculo"
 
 [[params.menu.main]]
-url = '/informacoes-adicionais/em-construcao'
+url = '/equipa-projeto/'
 title = "Equipa Projeto"
 
 [[params.menu.main]]
@@ -106,13 +106,13 @@ body = 'Conhece um pouco sobre cada membro da EP!'
 button = true
 
 [[params.two.section.link]]
-href = "informacoes-adicionais/em-construcao"
+href = "equipa-projeto"
 text = "EQUIPA PROJETO"
 
 [[params.two.section]]
 img = "img/carta-cenaculo.jpg"
 title = 'CARTA DE CENÁCULO'
-body = '''Aqui podes aceder à carta de cenáculo.
+body = '''Aqui podes aceder à carta de Cenáculo.
 
 No reportório podes encontrar diversas atividades para caminheiros, a nível nacional ou regional.'''
 button = true

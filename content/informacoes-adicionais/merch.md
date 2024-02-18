@@ -17,8 +17,8 @@ A Sweatshirt do Núcleo Oriental de Lisboa chegou e veio para ficar. Neste Ciclo
 
 Adquire-a e usa-a em todos os Ciclos de Cenáculo!
 
-Custo da sweat: 16.5€  
-Compra [aqui](https://forms.gle/6xbQDNrRmZgpY41P7)
+Custo da sweat: 17.5€  
+Compra [aqui](https://forms.gle/MTijoYdjA5j7nWKu9)
 
 ---
 
