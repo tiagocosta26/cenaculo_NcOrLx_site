@@ -12,7 +12,7 @@ A animação elabora o imaginário, dinâmicas e envolvência dos caminheiros no
 
 {{< figure src="/img/equipa-projeto/veloza.jpg" height="300px" width="300px" class="wrap-left">}}
 ​​  
-Alo caminheiros!! o meu nome é **Catarina Veloza** ,sou do agrupamento 51 santa engrácia e já estou no movimento há alguns anitos, visto que entrei oficialmente em 2010.
+Alo caminheiros!! o meu nome é **Catarina Veloza** ,sou do agrupamento 51 Santa Engrácia e já estou no movimento há alguns anitos, visto que entrei oficialmente em 2010.
 Sou uma pessoa sempre pronta a fazer amigos, a rir e a atrapalhar , por isso posso dizer que me identifico com o _Po_, sou descontraída mas determinada 🐼
 Uma curiosidade sobre mim, é que nunca participei num Cenáculo, por isso para além de esperar descobrir um pouco mais sobre a atividade espero também fazer com que toda a gente se divirta e claro que sejam felizes!!
 Canhotas,
