@@ -13,5 +13,5 @@ Aqui vamos ter atuações dos melhores clãs que conseguirmos encontrar.
 Estamos ansiosos para vos ver no café concerto. Contamos contigo e com a tua animação!
 
 **Dia:** 17 Fevereiro 2024 🗓️ \
-**Hora:** ????? \
-**Local:** ?????
+**Hora:** 20h30 \
+**Local:** [Pólo de Telheiras da Junta de Freguesia do Lumiar](https://maps.app.goo.gl/H1NnpxS8RSs2maXZ9)

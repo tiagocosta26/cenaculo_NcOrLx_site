@@ -12,7 +12,7 @@ O Embaixador é responsável pela ligação entre a equipa projeto local com a n
 
 <!--more-->
 
-{{< figure src="/img/team/margarida.jpeg" height="300px" width="300px" class="wrap-left">}}
+{{< figure src="/img/equipa-projeto/cesário.jpg" height="300px" width="300px" class="wrap-left">}}
 ​  
 Oii oii malta!! 
 Chamo-me **Catarina** mais conhecida pelo meu apelido, **Cesário** e sou a vossa embaixadora durante este ciclo ehehe!! Entrei nos escuteiros em 2014 no Agrupamento 253 Seixal porém, percebi que apesar de todos os ensinamentos que aprendera, a vida marítima não era para mim encontrando-me atualmente no 414 Amora, Região de Setúbal.

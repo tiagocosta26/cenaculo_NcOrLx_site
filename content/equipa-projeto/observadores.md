@@ -11,7 +11,7 @@ Os observadores são dirigentes responsáveis pela ligação dos trabalhos do ci
 
 <!--more-->
 
-{{< figure src="/img/team/ana.jpeg" height="300px" width="300px" class="wrap-left">}}
+{{< figure src="/img/equipa-projeto/anabela.jpg" height="300px" width="300px" class="wrap-left">}}
 ​  
 Olá caminheiros, sou a **Anabela Silva** do Agrupamento: 760 Beato
 Entrei nos escuteiros apenas em 2011.
@@ -24,7 +24,7 @@ O que espero deste cenáculo é que vocês caminheiros continuem a traçar o vos
 
 ---
 
-{{< figure src="/img/team/mac.jpeg" height="300px" width="300px" class="wrap-right" >}}
+{{< figure src="/img/equipa-projeto/mac.jpg" height="300px" width="300px" class="wrap-right" >}}
 ​  
 Chamo-me **Nuno Alves** - «**Mac**», para os escuteiros - e sou Dirigente do Agrupamento 42 - Penha de França. 
 Comecei esta aventura em 1989 e, este ano, como Observador do XXII Ciclo de Cenáculo do NcOrLx, conto ser capaz de saber ser irmão mais velho e de fazer caminho com os meus irmãos do Clã do Oriental.

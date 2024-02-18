@@ -106,7 +106,7 @@ body = 'Conhece um pouco sobre cada membro da EP!'
 button = true
 
 [[params.two.section.link]]
-href = "informacoes-adicionais/em-construcao"
+href = "equipa-projeto"
 text = "EQUIPA PROJETO"
 
 [[params.two.section]]

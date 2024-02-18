@@ -18,4 +18,4 @@ Enquanto EP queremos agradecer a todos os que aceitaram o nosso desafio de parti
 
 **Dia:** 30 de Novembro de 2023 🗓️ \
 **Hora:** 20h00\
-**Local:** Salão Paroquial de Nossa Senhora da Penha de França
+**Local:** [Salão Paroquial de Nossa Senhora da Penha de França](https://maps.app.goo.gl/5UpepuxJ5T41kN6B9)
