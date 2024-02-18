@@ -27,4 +27,4 @@ Os caminheiros se quiserem são uma força imbatível só precisamos de trabalha
 Alô malta, tudo bem?
 Sou a **Mariana Silva** do Agr. 50 - São João de Brito e estou nos escuteiros desde os 6 anos.
 A personagem do Panda do Kung Fu com que mais me identifico é a _Tigresa_, pelo facto de ser um bocado teimosa (só um bocadito mesmo) e pela sua determinação. Para além disso, sinto que posso ser um pouco séria no início até me dar a conhecer, tal como ela! Acho que o segredo está no trabalho de equipa, a tigresa não seria a mesma sem os que a rodeiam!
-Espero que neste cenáculo, possa contribuir para a criação de momentos de partilha entre todos os elementos do nosso núcleo, dando asas aquilo que a IV representa para nós enquanto caminheiros :)
+Espero que neste Cenáculo, possa contribuir para a criação de momentos de partilha entre todos os elementos do nosso núcleo, dando asas aquilo que a IV representa para nós enquanto caminheiros :)

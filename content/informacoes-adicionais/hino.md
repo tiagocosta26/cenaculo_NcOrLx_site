@@ -5,7 +5,7 @@ title = "Hino do Cenáculo"
 description = "Hino"
 +++
 
-Aprende o Hino para não fazeres má figura no cenáculo!
+Aprende o Hino para não fazeres má figura no Cenáculo!
 
 <!--more-->
 
