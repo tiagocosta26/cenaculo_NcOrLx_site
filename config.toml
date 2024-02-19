@@ -92,7 +92,7 @@ body = 'Todos os caminhos vão dar ao Encontro Local :)'
 button = true
 
 [[params.two.section.link]]
-href = "informacoes-adicionais/em-construcao"
+href = "https://forms.gle/7cLAoP8kf2qHVwvX6"
 text = "INSCRIÇÃO"
 
 [[params.two.section.link]]
