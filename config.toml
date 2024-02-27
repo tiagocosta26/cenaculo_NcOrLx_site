@@ -13,8 +13,8 @@ source = "https://github.com/CanIBeFii/cenaculo_NcOrLx_site"
 author = "CanIBeFii"
 authorurl = "https://github.com/CanIBeFii"
 description = '1, 2 e 3 de março de 2024. Estás preparado?!' # description below title on frontpage
-startbuttonText = "Inscrições"  # text on the start button
-startbuttonLink = "https://forms.gle/7cLAoP8kf2qHVwvX6"
+# startbuttonText = "Inscrições"  # text on the start button
+# startbuttonLink = "https://forms.gle/7cLAoP8kf2qHVwvX6"
 body_is_markdown = true
 # custom_css = "foo.css"
 #images = ["path_to_social_image_for_link_previews.jpg"]
@@ -92,12 +92,12 @@ body = 'Todos os caminhos vão dar ao Encontro Local :)'
 button = true
 
 [[params.two.section.link]]
-href = "https://forms.gle/7cLAoP8kf2qHVwvX6"
-text = "INSCRIÇÃO"
-
-[[params.two.section.link]]
 href = "encontro-local/informacoes"
 text = "INFORMAÇÕES"
+
+# [[params.two.section.link]]
+# href = "https://forms.gle/VFJXJEHHMbZJjLHC7"
+# text = "PROPOSTAS DAS FAMILIAS"
 
 [[params.two.section]]
 img = "img/equipa-projeto.jpg"
