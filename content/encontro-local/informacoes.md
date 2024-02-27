@@ -26,7 +26,7 @@ No Encontro Local,  vamos obter respostas para essas dúvidas, faz a mochila e f
 - Tupperware
 - Prato, talheres e copo
 - Caderno e caneta
-- Algum para pintar: T-shirt, Tote, ...
+- Algo para pintar: T-shirt, Tote, ...
 - Tampas para doar!!
 
 ---
