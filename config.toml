@@ -95,6 +95,10 @@ button = true
 href = "encontro-local/informacoes"
 text = "INFORMAÇÕES"
 
+[[params.two.section.link]]
+href = "encontro-local/desafios"
+text = "DESAFIOS DAS OFICINAS"
+
 # [[params.two.section.link]]
 # href = "https://forms.gle/VFJXJEHHMbZJjLHC7"
 # text = "PROPOSTAS DAS FAMILIAS"
