@@ -16,6 +16,6 @@ Tudo isto soa um tanto ou quanto holístico e impossível de alcançar, mas é n
 
 **Pensem sobre estas 3 áreas, escolham a que mais vos faz sentido e nela elaborem algo que queiram agarrar para o futuro e à qual se queiram comprometer em carta de cenáculo.** 	 
 
-Não se esqueçam: Acreditem, Partilhem e Avancem
+Não se esqueçam: _Acreditem, Partilhem e Avancem_
 
 {{< figure src="/img/trabalhos-de-tribo/trabalho-de-tribos-plenarios.jpg" height="400px" width="400px" >}}
