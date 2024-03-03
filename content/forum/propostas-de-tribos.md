@@ -11,7 +11,8 @@ Lê as propostas atentamente e prepara-te para a votação...
 
 ## Tribo Mestre Gêmeos Texugos
 
-Propomo-nos a criar oficinas de formação sobre diversos temas: backstage de regulamento, funcionamento do Cenáculo, censos. Formato: tertúlia, post de instagram, ou inclusão em site, como o do Cenáculo.
+Propomo-nos a criar oficinas de formação sobre diversos temas: backstage de regulamento, funcionamento do Cenáculo, censos.
+Formato: tertúlia, post de instagram, ou inclusão em site, como o do Cenáculo.
 
 Responsáveis: Inês Caetano, 42 - Penha de França, Rafa, 43 - São Jorge de Arroios, Leonor Leandro, 61 - Santa Maria dos Olivais, Nuno Duarte, 63 - Graça, Miguel Rebelo, 760 - Beato, Ricardo Gomes, 51 - Santa Engrácia, Maria Canto, 42 - Penha de França.
 
