@@ -122,8 +122,12 @@ No reportório podes encontrar diversas atividades para caminheiros, a nível na
 button = true
 
 [[params.two.section.link]]
-href = "forum/carta-cenaculo"
-text = "CARTA DE CENÁCULO"
+href = "forum/propostas-de-tribos"
+text = "PROPOSTAS DE TRIBOS"
+
+# [[params.two.section.link]]
+# href = "forum/carta-cenaculo-XXII"
+# text = "CARTA DE CENÁCULO"
 
 [[params.two.section.link]]
 href = "informacoes-adicionais/atividades"

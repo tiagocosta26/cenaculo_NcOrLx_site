@@ -9,71 +9,80 @@ Lê as propostas atentamente e prepara-te para a votação...
 
 <!--more-->
 
-## Tribos Isabela e Julieta
+## Tribo Mestre Gêmeos Texugos
 
-Propomo-nos a assumir a representação de todos os clãs do Núcleo Oriental em conselhos de núcleo, assegurando a participação do máximo número de caminheiros possível nestes mesmos conselhos.
+Propomo-nos a criar oficinas de formação sobre diversos temas: backstage de regulamento, funcionamento do Cenáculo, censos. Formato: tertúlia, post de instagram, ou inclusão em site, como o do Cenáculo.
 
----
+Responsáveis: Inês Caetano, 42 - Penha de França, Rafa, 43 - São Jorge de Arroios, Leonor Leandro, 61 - Santa Maria dos Olivais, Nuno Duarte, 63 - Graça, Miguel Rebelo, 760 - Beato, Ricardo Gomes, 51 - Santa Engrácia, Maria Canto, 42 - Penha de França.
 
-## Tribo Félix
-
-Propomo-nos a criar uma atividade com o objetivo de recuperação e manutenção de diferentes campos utilizados para atividades escutistas. [^1]
 
 ---
 
-## Tribo Luísa
+## Tribo Mestre Gorila
 
-Propomo-nos a criar e dinamizar uma plataforma de partilha informal de clã de núcleo. [^2]
+Propomo-nos a criar um fórum de núcleo online onde se partilham experiências, fomentam-se laços, pedir conselhos ou ajuda.
 
----
-
-## Tribo Pepa
-
-Propomo-nos a criar uma plataforma online para gerar um reportório de atividades nacionais, regionais e de núcleo para os caminheiros. [^3]
+Responsáveis: Pedro Neves (683) e Margarida Gabriel (541), com a ajuda de Diana Baptista (63). 
 
 ---
 
-## Tribo Augustin
+## Tribo Mestre Rinoceronte
 
-Propomo-nos a criar uma atividade de integração aos noviços da IV. [^4]
+Propomo-nos a criar um espaço, no site do núcleo (após ser feita a sua manutenção), de intercâmbio de dirigentes, candidatos a dirigentes (que tenham frequentado a IVª Secção) e caminheiros investidos. Esta proposta visa arranjar uma solução para a escassez de dirigentes em atividades, evitando cancelamentos ou a não inscrição.
 
----
+Responsáveis: Carolina Coutinho, 230 olivais sul, Nuno Ribeiro, 61 Santa Maria dos Olivais.
 
-## Tribo Antonio
-
-Propomos a revisão periódica do regulamento geral no sentido de introduzir temáticas como o estado civil do dirigente e a orientação sexual. [^5]
 
 ---
 
-## Tribo Bruno
+## Tribo Mestre Elefante
 
-Propomo-nos a criar materiais de apoio para a formação de Noviços e Aspirantes a Caminheiros, sobre a vivência da IV. [^6]
+Propomo-nos a alterar o modelo do dia S. Paulo, alterando-o para uma atividade de 2 dias com hike + oficinas/dinâmicas + serviço. Procuramos descobrir a nossa vocação e aprofundar para que renascidos possâmos pôr as mãos à obra.
 
----
+Responsáveis: Marta Teixeira, 63-Graça, Rita Figueiredo, 43- Arroios,, Laura Franco, 66- Lumiar e a Mariana Fernandes, 67-B° da Encarnação.
 
-## Tribo Camilo
-
-Propomos a permissão da utilização de saia por todos os Escuteiros, enquanto farda oficial do Corpo Nacional de Escutas.
 
 ---
 
-## EP
+## Tribo Mestre Porco-Espinho
 
-Propomo-nos a criar uma equipa de jovens conselheiros de núcleo.
+Propomo-nos a criar uma atividade para caminheiros que tencionem fazer a Partida, em regime de acampamento, com dinâmicas de partilha e vocação, de nome “Sentido Novo” e a realizar em Abril.
 
-[^1]:
-    Cuidar para Ter - Investir no desenvolvimento, recuperação e manutenção dos campos do CNE, AEP e outros. Para a reabilitação do espaço promover-se-ão atividades de serviço para caminheiros, para que seja um espaço agradável para todas as secções e todos os movimentos.
-    Inicialmente serão utilizadas as atividades de referência já existentes (S. Paulo ao Rubro) e, correndo bem, é criada uma atividade própria.
-    Existir pelo menos 1 reunião trimestral de guias do núcleo para desenvolvimento e acompanhamento do plano anual da IV.
+Responsáveis: Pedro Silva; Filipe Rebelo; Rita Costa Pinto; Beatriz Marques; Gonçalo Neves; Madalena Almeida.
 
-[^2]:
-    Criar e dinamizar uma plataforma de partilha de ideias, acontecimentos, experiências, reflexões, atividades e/ou dúvidas, com todos os Caminheiros do núcleo, com o objetivo de fomentar a partilha, a aproximação, e a interação entre a quarta secção do núcleo.
-    A escolha da plataforma será feita na próxima reunião de Guias do Núcleo. A atualização seria da responsabilidade dos guias de núcleo, efetuada anualmente.
+---
 
-[^3]: A plataforma apresentaria informação sobre o tipo de atividade, inscrições, datas e outras detalhes como link de inscrição. Deste modo, promovemos uma maior presença dos Caminheiros nas atividades.
-[^4]: In IV, que se realiza no início do ano escutista e é organizada por uma equipa de Caminheiros acompanhados por um Observador. O objetivo é ser uma atividade de referência da secção e que proporcione uma melhor integração dos Noviços e crescente trabalho de união entre o clã do núcleo. Os Noviços devem trabalhar alguns temas das provas das promessas, Caminheiros investidos aprofundam a sua vivência do caminheirismo e os Caminheiros em último ano de atividade começariam a preparar o fim do seu percurso da secção. A aqtividade deve ser organizada por uma equipa de Caminheiros, com auxílio de um Observador – que seja Dirigente do Núcleo Oriental, e que tenha idealmente uma grande representatividade dos diferentes Agrupamentos.
-[^5]: Esta equipa deve ser constituída por membros do Conselho Nacional, a equipa Nacional de Jovens Conselheiros, 1 Caminheiro por região e 1 Dirigente por região.
-[^6]:
-    Criação de uma equipa de Caminheiros com um representante de cada clã do núcleo para a elaboração destes materiais.
-    A equipa deve fazer um levantamento com os caminheiros do núcleo sobre como abordam as diferentes temáticas, de forma a criar um baú de oportunidades para estas atividades.
-    Disponibilizar todas estas informação nos respetivos materiais de formação.
+## Tribo Mestre Galinha
+
+Propomo-nos a criar uma atividade entre abril e maio, direcionada para a partilha entre caminheiros, serviço e aprofundamento da fé, com apoio de um assistente.
+
+Responsáveis: Miguel 61 Sta Maria dos Olivais e Gabriel do 50 São João de Brito + 1 assistente que aceite o desafio
+
+---
+
+## Tribo Mestre Crocodilo
+
+Propomo-nos a criar um formulário de recolha de pedidos de serviço, com finalidade de permitir a entidades que necessitem deste por parte da IV secção do Núcleo Oriental, articulando com a equipa de comunicação do núcleo a sua divulgação. 
+
+Responsáveis: Matilde Marvão 61, Rodrigo Barata 63, Joana Fernandes 66, Gonçalo Silva 760, Ana Raposo 230, Mariana Barata 848, Maria Ferreira 50, Leandro Alberto 42 
+
+
+---
+
+## Tribo Mestre Lagarto
+
+Propomos a criação e dinamização da atividade 'A(s)cende a tua chama', dinamizada no final de maio pelos Caminheiros de último ano, em local determinado por uma EP, promovendo a união entre pioneiros de último ano e Caminheiros de terceiro e quarto ano, com o objetivo de fortalecer laços, preparar partidas e preencher lacunas de integração, enriquecendo a transição entre secções.
+
+Responsáveis: Francisco Gouveia,63 - Graça, Daniel Fundeiro, 848 - Nossa Senhora do Rosário de Fátima, André Figueiredo, 66 - Lumiar, Inês coito, 760 - Beato, Aline N’Dongo,61 - Santa Maria dos Olivais, Rafael Ferreira, 42 - Penha de França
+
+
+---
+
+## Tribo Mestre Javali
+
+**Opinião**:
+Voltar às origens do cenáculo de forma a descobrir o que é verdadeiramente essencial.
+Alterar a abordagem dos temas discutidos com menos momentos de exposição de oradores e mais momentos de partilha entre caminheiros no encontro local.
+Este teria como objetivo a maior discussão das propostas entre os caminheiros, enquanto a parte das exposições e abordagem de temas ficaria maioritariamente ao encargo das actividades pré encontro local.
+
+---
