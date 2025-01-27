@@ -9,11 +9,11 @@ Era uma vez... um cinema.
 
 Na noite de 26 de janeiro de 2024, véspera do nosso São Paulo ao Rubro, o clã de núcleo esteve reunido num momento de convívio.
 
-Estivemos a ver um dos filmes que nos vão guiar durante o encontro local: O Panda do Kung Fu 3(para quem não conseguiu estar presente aconselhamos, 5⭐)!
+Estivemos a ver um dos filmes que nos vão guiar durante o encontro local: O Panda do Kung Fu 3 (para quem não conseguiu estar presente aconselhamos, 5⭐)!
 
 Nesta noite cheia de animação tivemos também direito a quebra-gelos, chourriço e uma bela guitarrada! 🎶
 
-Foi um prazer estar convosco. Vemo-nos no Café COncerto, dia 17 de fevereiro!
+Foi um prazer estar convosco. Vemo-nos no Café Concerto, dia 17 de fevereiro!
 Estejam atentos a novidades muito em breve 😉
 
 ---
