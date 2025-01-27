@@ -6,7 +6,7 @@ description = "XXI Ciclo"
 url = cenaculo.netlify.app
 +++
 
-Cenaaaaaaas e coisas
+Cenaaaaaaaas e coisas
 
 --- 
 
