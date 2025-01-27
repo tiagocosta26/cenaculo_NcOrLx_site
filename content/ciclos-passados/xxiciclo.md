@@ -5,10 +5,4 @@ title = "XXI Ciclo"
 description = "XXI Ciclo"
 +++
 
-Cenaaaaaaaas e coisas
-
---- 
-
-**Dia:** 17 Fevereiro 2024 🗓️ \
-**Hora:** 20h30 \
-**Local:** [Pólo de Telheiras da Junta de Freguesia do Lumiar](https://maps.app.goo.gl/H1NnpxS8RSs2maXZ9)
+<meta http-equiv="refresh" content="0; url=https://cenaculo.netlify.app">
