@@ -39,10 +39,6 @@ title = "Reportório de Oportunidades"
 url = "ciclos-passados"
 title = "Ciclos Passados"
 
-[[params.menu.main.ciclos-passados]]
-url = "cenaculo.netlify.app"
-title = "XXI Ciclo"
-
 [taxonomies]
 	tag = "tags"
 	category = "categories"
