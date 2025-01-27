@@ -33,20 +33,34 @@
 			<div id="page-wrapper">
 
 				<!-- Header -->
-          <header id="header"{{ if .Page.IsHome }} class="alt"{{ end }}>
-            <h1><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
-						<nav id="nav">
-							<ul>
-								<li class="special">
-                  <a href="#menu" class="menuToggle"><span>{{ i18n "menu" }}</span></a>
-									<div id="menu">
-										<ul>
-				              {{ range .Site.Params.menu.main }}
-				              <li><a href="{{ .url | relURL }}">{{ .title }}</a></li>
-				              {{ end }}
-										</ul>
-									</div>
-								</li>
-							</ul>
-						</nav>
-					</header>
+				<header id="header"{{ if .Page.IsHome }} class="alt"{{ end }}>
+					<h1><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
+					<nav id="nav">
+						<ul>
+							<li class="special">
+								<a href="#menu" class="menuToggle"><span>{{ i18n "menu" }}</span></a>
+								<div id="menu">
+									<ul>
+										{{ range .Site.Params.menu.main }}
+											{{ if .hasChildren }}
+												<li class="dropdown">
+													<a href="#" class="dropdown-toggle">{{ .title }}</a>
+													<ul class="dropdown-menu">
+														{{ range .Site.Params.menu.main }}
+															{{ if eq .parent $.identifier }}
+																<li><a href="{{ .url | relURL }}">{{ .title }}</a></li>
+															{{ end }}
+														{{ end }}
+													</ul>
+												</li>
+											{{ else }}
+												<li><a href="{{ .url | relURL }}">{{ .title }}</a></li>
+											{{ end }}
+										{{ end }}
+									</ul>
+								</div>
+							</li>
+						</ul>
+					</nav>
+				</header>
+				
