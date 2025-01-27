@@ -4,5 +4,3 @@ author = "Equipa Projeto"
 title = "XXI Ciclo"
 description = "XXI Ciclo"
 +++
-
-descrição
