@@ -44,7 +44,7 @@ hasChildren = true
 
   [[params.menu.main]]
   parent = "ciclos-passados"
-  title = "XXI Ciclooo"
+  title = "XXI Ciclu"
   url = "https://cenaculo.netlify.app/"
 
   [[params.menu.main]]
