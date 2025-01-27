@@ -36,21 +36,8 @@ url = 'informacoes-adicionais/atividades'
 title = "Reportório de Oportunidades"
 
 [[params.menu.main]]
-url = ""
+url = "ciclos-passados"
 title = "Ciclos Passados"
-identifier = "ciclos-passados"
-hasChildren = true
-
-
-  [[params.menu.main]]
-  parent = "ciclos-passados"
-  title = "XXI Ciclo"
-  url = "https://cenaculo.netlify.app/"
-
-  [[params.menu.main]]
-  parent = "ciclos-passados"
-  title = "XXII Ciclado"
-  url = "https://cenaculo.netlify.app/xxii-ciclo"
 
 [taxonomies]
 	tag = "tags"
