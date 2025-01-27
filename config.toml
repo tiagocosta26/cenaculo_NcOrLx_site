@@ -74,10 +74,6 @@ body = 'Não vão faltar momentos de partilha entre o núcleo!'
 button = true
 
 [[params.two.section.link]]
-href = "cenaculo.netify.app"
-text = "XXI Ciclo"
-
-[[params.two.section.link]]
 href = "angariacoes-fundo/juntarada"
 text = "JUNTARADA"
 
