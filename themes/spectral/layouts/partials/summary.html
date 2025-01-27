@@ -1,27 +1,7 @@
 <section class="wrapper style5">
   <div class="inner">
-    <ul class="menu">
-      {{ range .Site.Menus.main }}
-        <li class="menu-item">
-          <!-- Link principal -->
-          <a href="{{ .URL }}" {{ with .Params.target }}target="{{ . }}"{{ end }}>
-            {{ .Name }}
-          </a>
-
-          <!-- Verifica se o item tem filhos e cria o dropdown -->
-          {{ if .HasChildren }}
-            <ul class="submenu">
-              {{ range .Children }}
-                <li class="submenu-item">
-                  <a href="{{ .URL }}" {{ with .Params.target }}target="{{ . }}"{{ end }}>
-                    {{ .Name }}
-                  </a>
-                </li>
-              {{ end }}
-            </ul>
-          {{ end }}
-        </li>
-      {{ end }}
-    </ul>
+    <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+    <p>{{ .Summary }}</p>
   </div>
 </section>
+
