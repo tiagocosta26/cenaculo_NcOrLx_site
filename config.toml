@@ -97,8 +97,8 @@ text = "CAFÉ CONCERTO"
 
 [[params.two.section]]
 img = "img/encontro-local.jpg"
-title = 'ENCONTROS LOCAIS'
-body = 'Todos os caminhos vão dar ao Encontro Local :)'
+title = 'PRÉ-CENÁCULO'
+body = 'Rumo ao Pré-Cenáculo!'
 button = true
 
 [[params.two.section.link]]
