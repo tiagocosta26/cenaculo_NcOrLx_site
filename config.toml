@@ -13,8 +13,8 @@ source = "https://github.com/CanIBeFii/cenaculo_NcOrLx_site"
 author = "CanIBeFii"
 authorurl = "https://github.com/CanIBeFii"
 description = '7, 8 e 9 de março de 2025. Estás preparado?!' # description below title on frontpage
-#startbuttonText = "Inscrições"  # text on the start button
-#startbuttonLink = "https://forms.gle/7cLAoP8kf2qHVwvX6"
+startbuttonText = "Inscrições"  # text on the start button
+startbuttonLink = "https://forms.gle/7cLAoP8kf2qHVwvX6"
 body_is_markdown = true
 # custom_css = "foo.css"
 #images = ["path_to_social_image_for_link_previews.jpg"]
@@ -70,14 +70,6 @@ special = false
 
 [params.two]
 enable = true
-
-[[params.two.section]]
-img = "img/angariacoes.jpg"
-title = 'PRÉ-CENÁCULO'
-body = 'Inscreve-te já!'
-startbuttonText = "Inscrições"  # text on the start button
-startbuttonLink = "https://forms.gle/7cLAoP8kf2qHVwvX6"
-#button = true
 
 [[params.two.section.link]]
 href = "angariacoes-fundo/juntarada"
