@@ -36,11 +36,11 @@ url = 'informacoes-adicionais/atividades'
 title = "Reportório de Oportunidades"
 
 [[params.menu.main]]
-url = "cenaculo.netlify.app"
+url = "https://cenaculo.netlify.app/"
 title = "XXI Ciclo"
 
 [[params.menu.main]]
-url = "cenaculoxxii.netlify.app"
+url = "https://cenaculoxxii.netlify.app"
 title = "XXII Ciclo"
 
 [taxonomies]
