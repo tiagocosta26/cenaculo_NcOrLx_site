@@ -101,9 +101,9 @@ title = 'ENCONTROS LOCAIS'
 body = 'Todos os caminhos vão dar ao Encontro Local :)'
 button = true
 
-#[[params.two.section.link]]
-#href = "encontro-local/pré-cenáculo"
-#text = "PRÉ-CENÁCULO"
+[[params.two.section.link]]
+href = "encontro-local/pré-cenáculo"
+text = "PRÉ-CENÁCULO"
 
 [[params.two.section.link]]
 href = "encontro-local/trabalhos-de-tribos"
