@@ -12,7 +12,7 @@ Ao longo do ciclo são responsáveis por constituir e gerir a equipa projeto, e 
 ---
 <!--more-->
 
-{{< figure src="/img/equipa-projeto/lara.jpg" height="300px" width="300px" class="wrap-left">}}
+<!--{{< figure src="/img/equipa-projeto/lara.jpg" height="300px" width="300px" class="wrap-left">}}
 ​  
 ​
 Olá Oriental!
@@ -31,8 +31,4 @@ Com este Cenáculo espero que, tal como o Po, façamos exatamente isso, sonhemos
 Hello Hello, 
 A quem ainda não tive oportunidade de conhecer, prazer sou o **António** e sou escuteiro do 42 - Penha de França desde 2014 (yay vou fazer 10 anos). 
 Diria que sou parecido com o _Po_, muito brincalhão e relaxado, mas mais pro inicio do filme porque ainda tenho muito que aprender.
-Vou dar o meu melhor e espero que juntos façamos um grande XXII ciclo de Cenáculo!!! 🐼✨
-​  
-
-
-¨
+Vou dar o meu melhor e espero que juntos façamos um grande XXII ciclo de Cenáculo!!! 🐼✨-->

@@ -11,7 +11,7 @@ Os observadores são dirigentes responsáveis pela ligação dos trabalhos do ci
 
 <!--more-->
 
-{{< figure src="/img/equipa-projeto/anabela.jpg" height="300px" width="300px" class="wrap-left">}}
+<!--{{< figure src="/img/equipa-projeto/anabela.jpg" height="300px" width="300px" class="wrap-left">}}
 ​  
 Olá caminheiros, sou a **Anabela Silva** do Agrupamento: 760 Beato
 Entrei nos escuteiros apenas em 2011.
@@ -27,5 +27,5 @@ O que espero deste Cenáculo é que vocês caminheiros continuem a traçar o vos
 Chamo-me **Nuno Alves** - «**Mac**», para os escuteiros - e sou Dirigente do Agrupamento 42 - Penha de França. 
 Comecei esta aventura em 1989 e, este ano, como Observador do XXII Ciclo de Cenáculo do NcOrLx, conto ser capaz de saber ser irmão mais velho e de fazer caminho com os meus irmãos do Clã do Oriental.
 O meu personagem favorito é o _Oogway_. Além de eu ser o mais velho, sempre adorei o estilo filosófico, e simultaneamente «chill out», do Oogway. Revejo-me completamente nele. Conto contigo para realizarmos este sonho juntos. Como diz o Oogway, "o ontem é história, o amanhã é um mistério, mas o hoje é uma dádiva... é por isso que se chama presente.” 
-Se acreditares que podemos fazer a diferença, não será difícil. Como diz o Senhor Ping, "para fazer algo especial, só precisas acreditar que é especial." 
+Se acreditares que podemos fazer a diferença, não será difícil. Como diz o Senhor Ping, "para fazer algo especial, só precisas acreditar que é especial." -->
 
