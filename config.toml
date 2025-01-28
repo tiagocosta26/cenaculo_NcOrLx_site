@@ -102,16 +102,34 @@ body = 'Rumo ao Pré-Cenáculo!'
 button = true
 
 [[params.two.section.link]]
-href = "encontro-local/pré-cenáculo"
-text = "PRÉ-CENÁCULO"
-
-[[params.two.section.link]]
-href = "encontro-local/trabalhos-de-tribos"
-text = "TRABALHO DE TRIBOS"
+href = "pré-cenáculo/informações"
+text = "INFORMAÇÕES"
 
 [[params.two.section.link]]
 href = "encontro-local/guião-de-campo"
 text = "GUIÃO DE CAMPO"
+
+#[[params.two.section.link]]
+#href = "pré-cenáculo/trabalhos-de-tribos"
+#text = "TRABALHO DE TRIBOS"
+
+#[[params.two.section]]
+#img = "img/encontro-local.jpg"
+#title = 'ENCONTRO LOCAL'
+#body = 'Todos os caminhos vão dar ao Encontro Local :)'
+#button = true
+
+#[[params.two.section.link]]
+#href = "encontro-local/informacoes"
+#text = "INFORMAÇÕES"
+
+#[[params.two.section.link]]
+#href = "encontro-local/guião-de-campo"
+#text = "GUIÃO DE CAMPO"
+
+#[[params.two.section.link]]
+#href = "pré-cenáculo/trabalhos-de-tribos"
+#text = "TRABALHO DE TRIBOS"
 
 #[[params.two.section.link]]
 #href = "https://forms.gle/r88i322Qf4pw7PHu7"
