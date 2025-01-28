@@ -16,7 +16,8 @@ Acabámos em grande com os incríveis vikings e caminheiros a cantar karaoke! Be
 
 Encontramo-nos no Pré-Cenáculo!
 
-Canhotas ÉpYcas
+Canhotas ÉpYcas,
+Equipa Projeto do XXIII Ciclo de Cenáculo do Núcleo Oriental de Lisboa
 
 --- 
 
