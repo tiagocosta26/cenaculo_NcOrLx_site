@@ -129,7 +129,7 @@ text = "GUIÃO DE CAMPO"
 #body = 'Conhece um pouco sobre cada membro da EP!'
 #button = true
 
-"[[params.two.section.link]]
+#[[params.two.section.link]]
 #href = "equipa-projeto"
 #text = "EQUIPA PROJETO"
 
