@@ -1,32 +1,20 @@
 +++
 weight = 1
-author = "Informações"
-title = "Informações - Encontro Local" 
-description = "Informações - Encontro Local" 
+author = "Equipa Projeto"
+title = "Pré-Cenáculo" 
+description = "Pré-Cenáculo" 
 +++
 
-Olá caminheiros,
+O Pré-cenáculo surgiu como resultado da carta de cenáculo e das avaliações do Ciclo anterior. Este, servirá como a atividade de preparação para o Encontro Local. 
 
-Tens dúvidas de como chegar ao ideal de um guerreiro dragão? 
-No Encontro Local,  vamos obter respostas para essas dúvidas, faz a mochila e fica atento às próximas informações.
+O nosso objetivo é que todos os caminheiros aprendam e (re)encontrem o significado do cenáculo para a IV e para o movimento como um todo, para que o encontro local seja frutífero para todos nós.
 
----
+Precisamos de todos vós, grandes vikings Caminheiros! Só com a vossa participação é que conseguimos viver o cenáculo!
 
-## Material
+A Equipa Projeto do XXIII Ciclo foi **ousada** ao introduzir esta nova atividade no nosso Núcleo. Desafiamo-vos a sê-lo também! Por isso, ousam fazer pré-cenáculo connosco?
 
-### Material de Clã
-- Bandeira de Agrupamento
-- Tendas de Clã
-- Oleado/Toldo
-- Alguidar
-- Esponja
+--- 
 
-### Material Individual
-- Farda Oficial
-- Tupperware
-- Prato, talheres e copo
-- Caderno e caneta
-- Algo para pintar: T-shirt, Tote, ...
-- Tampas para doar!!
-
----
+**Dia:** 8 e 9 Fevereiro 2025 🗓️ \
+**Hora:** 20h00 \
+**Local:** [Centro Pastoral e Paroquial de Moscavide](https://maps.app.goo.gl/vhtuoS8RA99SjEQv6)
