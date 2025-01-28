@@ -11,5 +11,5 @@ Com o nosso cancioneiro, guitarras e vozes maravilhosas, a EP, esteve a cantar e
 
 Foram dois dias inteiros a espalhar alegria e a criar laços, até não podermos mais! Uma experiência que nos enriqueceu como EP e que nos deu vontade para continuar.😁
 
-Canhotas EpYcas,
+Canhotas EpYcas,\
 Equipa Projeto do XXIII Ciclo de Cenáculo do Núcleo Oriental de Lisboa
