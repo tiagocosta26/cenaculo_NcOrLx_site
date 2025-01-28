@@ -7,8 +7,8 @@ theme = "spectral"
 googleAnalytics = "G-G847G6KWGL"
 
 [params]
-fancyTitle = '<img srcset="/img/logo.png 484w, /img/logo_sm.png 242w" sizes="(max-width: 600px) 242px, 484px"> <br/> XXII Cenáculo NcOrLx'  # title for frontpage, may include image
-copyright = "XXII Cenáculo NcOrLx"
+fancyTitle = '<img srcset="/img/logo.png 484w, /img/logo_sm.png 242w" sizes="(max-width: 600px) 242px, 484px"> <br/> XXIII Cenáculo NcOrLx'  # title for frontpage, may include image
+copyright = "XXIII Cenáculo NcOrLx"
 source = "https://github.com/CanIBeFii/cenaculo_NcOrLx_site"
 author = "CanIBeFii"
 authorurl = "https://github.com/CanIBeFii"
@@ -25,7 +25,7 @@ title = "Página Inicial"
 
 [[params.menu.main]]
 url = 'informacoes-adicionais/merch'
-title = "Merch Cenaculo"
+title = "Merch Cenáculo"
 
 [[params.menu.main]]
 url = '/equipa-projeto/'
