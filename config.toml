@@ -36,8 +36,12 @@ url = 'informacoes-adicionais/atividades'
 title = "Reportório de Oportunidades"
 
 [[params.menu.main]]
-url = "ciclos-passados"
-title = "Ciclos Passados"
+url = "cenaculo.netlify.app"
+title = "XXI Ciclo"
+
+[[params.menu.main]]
+url = "cenaculoxxii.netlify.app"
+title = "XXII Ciclo"
 
 [taxonomies]
 	tag = "tags"
