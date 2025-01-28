@@ -83,13 +83,13 @@ button = true
 href = "angariacoes-fundos/tunáculo"
 text = "TUNÁCULO"
 
-[[params.two.section.link]]
-href = "angariacoes-fundos/juntarada"
-text = "JUNTARADA"
+#[[params.two.section.link]]
+#href = "angariacoes-fundos/juntarada"
+#text = "JUNTARADA"
 
-[[params.two.section.link]]
-href = "angariacoes-fundos/cinema"
-text = "CINEMA"
+#[[params.two.section.link]]
+#href = "angariacoes-fundos/cinema"
+#text = "CINEMA"
 
 [[params.two.section.link]]
 href = "angariacoes-fundos/cafe-concerto"
