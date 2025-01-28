@@ -106,7 +106,7 @@ href = "pré-cenáculo/informações"
 text = "INFORMAÇÕES"
 
 [[params.two.section.link]]
-href = "encontro-local/guião-de-campo"
+href = "pré-cenáculo/guião-de-campo"
 text = "GUIÃO DE CAMPO"
 
 #[[params.two.section.link]]
