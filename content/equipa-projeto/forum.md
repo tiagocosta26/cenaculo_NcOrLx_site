@@ -5,7 +5,7 @@ subtitle = "<!--Conhece a Catarina e o Margarida!-->"
 description = "Fórum"
 +++
 
-O Fórum recolhe problemas identificados pelos clãs e sugestões de temas para depois estruturar o centro do Cenáculo, o “fórum”. Cabe também ao fórum, moderar todas as seções e garantir a criação da carta de Cenáculo.
+O Fórum recolhe problemas identificados pelos clãs e sugestões de temas para depois estruturar o centro do Cenáculo, o “fórum”. Cabe também ao Fórum, moderar todas as seções e garantir a criação da carta de Cenáculo.
 
 ---
 

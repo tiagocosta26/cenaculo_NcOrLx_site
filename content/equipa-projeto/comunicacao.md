@@ -5,7 +5,7 @@ subtitle = "<!--Conhece a Beatriz e a Mariana!-->"
 description = "Comunicação"
 +++
 
-A comunicação gere as redes sociais e a criação da identidade de marca de todas as comunicações do ciclo. Para além disso, ainda são responsáveis pela comunicação entre a EP e os clãs.
+A Comunicação gere as redes sociais e a criação da identidade de marca de todas as comunicações do ciclo. Para além disso, ainda são responsáveis pela comunicação entre a EP e os Clãs.
 
 ---
 

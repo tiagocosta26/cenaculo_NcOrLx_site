@@ -5,7 +5,7 @@ subtitle = "<!--Conhece a Catarina e a Joana!-->"
 description = "Animação"
 +++
 
-A animação elabora o imaginário, dinâmicas e envolvência dos caminheiros no imaginário ao longo do ciclo. 
+A Animação elabora o imaginário, dinâmicas e envolvência dos caminheiros no imaginário ao longo do ciclo. 
 
 ---
 <!--more-->

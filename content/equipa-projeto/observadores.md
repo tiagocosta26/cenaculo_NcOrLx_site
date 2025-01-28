@@ -5,7 +5,7 @@ subtitle = "<!--Conhece a Anabela e o Mac!-->"
 description = "Observadores"
 +++
 
-Os observadores são dirigentes responsáveis pela ligação dos trabalhos do ciclo à junta de núcleo, ajudam na orientação dos representantes ao longo do ciclo e são autênticos desbloqueadores de problemas. Faz ainda a representação de um Cenáculo oriental nos encontros nacionais de observadores (ObservEM).
+Os Observadores são dirigentes responsáveis pela ligação dos trabalhos do ciclo à junta de núcleo, ajudam na orientação dos representantes ao longo do ciclo e são autênticos desbloqueadores de problemas. Faz ainda a representação do Cenáculo do Oriental nos encontros nacionais de observadores (ObservEM).
 
 ---
 

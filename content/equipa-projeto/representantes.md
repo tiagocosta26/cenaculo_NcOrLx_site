@@ -6,8 +6,8 @@ weight = 10
 description = "Representantes"
 +++
 
-A sua principal função é assegurar a continuidade do ciclo e representar o núcleo oriental nos encontros do Cenáculo nacional.
-Ao longo do ciclo são responsáveis por constituir e gerir a equipa projeto, e fazer a ligação entre a equipa projeto, o embaixador e a junta de núcleo.
+A sua principal função é assegurar a continuidade do ciclo e representar o Núcleo Oriental nos encontros Nacionais.
+Ao longo do ciclo são responsáveis por constituir e gerir a equipa projeto, e fazer a ligação entre a Equipa Projeto, o Embaixador e a Junta de Núcleo.
 
 ---
 <!--more-->
