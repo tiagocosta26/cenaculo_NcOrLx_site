@@ -27,9 +27,9 @@ title = "Página Inicial"
 url = 'informacoes-adicionais/merch'
 title = "Merch Cenáculo"
 
-#[[params.menu.main]]
-#url = '/equipa-projeto/'
-#title = "Equipa Projeto"
+[[params.menu.main]]
+url = '/equipa-projeto/'
+title = "Equipa Projeto"
 
 [[params.menu.main]]
 url = 'informacoes-adicionais/atividades'
@@ -73,6 +73,18 @@ enable = true
 
 [[params.two.section]]
 img = "img/angariacoes.jpg"
+title = 'PRÉ-CENÁCULO'
+body = 'Inscreve-te já!'
+startbuttonText = "Inscrições"  # text on the start button
+startbuttonLink = "https://forms.gle/7cLAoP8kf2qHVwvX6"
+#button = true
+
+[[params.two.section.link]]
+href = "angariacoes-fundo/juntarada"
+text = "JUNTARADA"
+
+[[params.two.section]]
+img = "img/angariacoes.jpg"
 title = 'ANGARIAÇÕES DE FUNDOS'
 body = 'Não vão faltar momentos de partilha entre o núcleo!'
 button = true
@@ -95,9 +107,9 @@ title = 'ENCONTROS LOCAIS'
 body = 'Todos os caminhos vão dar ao Encontro Local :)'
 button = true
 
-[[params.two.section.link]]
-href = "encontro-local/pré-cenáculo"
-text = "PRÉ-CENÁCULO"
+#[[params.two.section.link]]
+#href = "encontro-local/pré-cenáculo"
+#text = "PRÉ-CENÁCULO"
 
 [[params.two.section.link]]
 href = "encontro-local/trabalhos-de-tribos"
@@ -111,15 +123,15 @@ text = "GUIÃO DE CAMPO"
 #href = "https://forms.gle/r88i322Qf4pw7PHu7"
 #text = "PROPOSTAS FINAIS"
 
-[[params.two.section]]
-img = "img/equipa-projeto.jpg"
-title = 'EQUIPA PROJETO'
-body = 'Conhece um pouco sobre cada membro da EP!'
-button = true
+#[[params.two.section]]
+#img = "img/equipa-projeto.jpg"
+#title = 'EQUIPA PROJETO'
+#body = 'Conhece um pouco sobre cada membro da EP!'
+#button = true
 
-[[params.two.section.link]]
-href = "equipa-projeto"
-text = "EQUIPA PROJETO"
+"[[params.two.section.link]]
+#href = "equipa-projeto"
+#text = "EQUIPA PROJETO"
 
 #[[params.two.section]]
 #img = "img/carta-cenaculo.jpg"
