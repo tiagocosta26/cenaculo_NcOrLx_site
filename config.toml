@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "XXII Cenáculo NcOrLx"
+title = "XXIII Cenáculo NcOrLx"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 paginate = "7"
@@ -91,21 +91,25 @@ text = "CAFÉ CONCERTO"
 
 [[params.two.section]]
 img = "img/encontro-local.jpg"
-title = 'ENCONTRO LOCAL'
+title = 'ENCONTROS LOCAIS'
 body = 'Todos os caminhos vão dar ao Encontro Local :)'
 button = true
 
 [[params.two.section.link]]
-href = "encontro-local/informacoes"
-text = "INFORMAÇÕES"
+href = "encontro-local/pré-cenáculo"
+text = "PRÉ-CENÁCULO"
 
 [[params.two.section.link]]
 href = "encontro-local/trabalhos-de-tribos"
 text = "TRABALHO DE TRIBOS"
 
 [[params.two.section.link]]
-href = "https://forms.gle/r88i322Qf4pw7PHu7"
-text = "PROPOSTAS FINAIS"
+href = "encontro-local/guião-de-campo"
+text = "GUIÃO DE CAMPO"
+
+#[[params.two.section.link]]
+#href = "https://forms.gle/r88i322Qf4pw7PHu7"
+#text = "PROPOSTAS FINAIS"
 
 [[params.two.section]]
 img = "img/equipa-projeto.jpg"
