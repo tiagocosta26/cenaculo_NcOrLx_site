@@ -128,7 +128,7 @@ text = "GUIÃO DE CAMPO"
 #text = "GUIÃO DE CAMPO"
 
 #[[params.two.section.link]]
-#href = "pré-cenáculo/trabalhos-de-tribos"
+#href = "encontro-local/trabalhos-de-tribos"
 #text = "TRABALHO DE TRIBOS"
 
 #[[params.two.section.link]]
