@@ -1,7 +1,7 @@
 +++
 author = "Equipa Projeto"
 title = "Observadores"
-subtitle = "Conhece a Anabela e o Mac!"
+subtitle = "<!--Conhece a Anabela e o Mac!-->"
 description = "Observadores"
 +++
 
