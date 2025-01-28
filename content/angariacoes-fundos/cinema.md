@@ -1,6 +1,6 @@
 +++
 weight = 1
-author = "Angariações de Fundo"
+author = "Angariações de Fundos"
 title = "Cinema"
 description = "Cinema"
 +++

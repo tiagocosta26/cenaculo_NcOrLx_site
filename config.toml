@@ -55,14 +55,16 @@ title = 'Olá Caminheiros!'
 href = "/equipa-projeto/"
 text = "clica aqui!"
 body = '''
-Bem-vindos ao XXIII Ciclo de Cenáculo do Núcleo Oriental de Lisboa! O Cenáculo existe com o intuito de nos ajudar a desenvolver o nosso poder para fazermos parte da mudança e construirmos juntos, a realidade que desejamos. No XXII Ciclo esperamos que acreditem neste vosso poder e venham fazer este caminho de descoberta e aprendizagem connosco.
+Bem-vindos ao XXIII Ciclo de Cenáculo do Núcleo Oriental de Lisboa! O Cenáculo existe com o intuito de nos ajudar a desenvolver o nosso poder para fazermos parte da mudança e construirmos juntos, a realidade que desejamos. No XXIII Ciclo não deixem que o medo vos impeça de voar mais longe. Ousem embarcar nesta aventura!
 
-Sempre que precisem a EP está cá para vos apoiar, somos caminheiros como vocês portanto não hesitem em falar com qualquer um de nós!
+Sempre que precisarem, a EP está cá para vos apoiar. Somos caminheiros como vocês, portanto não hesitem em falar com qualquer um de nós!
 
-"Para fazer algo especial só precisas de acreditar que é especial." **Acredita**, **Partilha Y Avança**!
 
-Canhotas AmYgas,\
-Equipa Projeto do XXIII Ciclo de Cenáculo do Núcleo Oriental de Lisboa
+“Tens um coração de um chefe e a alma de um dragão.” **Ousa, Partilha Y Avança!**
+
+
+Canhotas EpYcas,
+Equipa Projeto do XXIII Ciclo de Cenáculo do Núcleo Oriental
 '''
 
 special = false
@@ -78,15 +80,19 @@ body = 'Não vão faltar momentos de partilha entre o núcleo!'
 button = true
 
 [[params.two.section.link]]
-href = "angariacoes-fundo/juntarada"
+href = "angariacoes-fundos/tunáculo"
+text = "TUNÁCULO"
+
+[[params.two.section.link]]
+href = "angariacoes-fundos/juntarada"
 text = "JUNTARADA"
 
 [[params.two.section.link]]
-href = "angariacoes-fundo/cinema"
+href = "angariacoes-fundos/cinema"
 text = "CINEMA"
 
 [[params.two.section.link]]
-href = "angariacoes-fundo/cafe-concerto"
+href = "angariacoes-fundos/cafe-concerto"
 text = "CAFÉ CONCERTO"
 
 [[params.two.section]]
