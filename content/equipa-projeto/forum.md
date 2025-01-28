@@ -1,7 +1,7 @@
 +++
 author = "Equipa Projeto"
 title = "Fórum"
-subtitle = "<!--Conhece a Catarina e o Margarida!-->"
+#subtitle = "<!--Conhece a Catarina e o Margarida!-->"
 description = "Fórum"
 +++
 
