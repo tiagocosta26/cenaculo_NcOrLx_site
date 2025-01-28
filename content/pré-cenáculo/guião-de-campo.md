@@ -20,13 +20,13 @@ Aqui vão encontrar o que vamos fazer ao longo do Pré-Cenáculo!
 - 23h30-01h Cinema
 
 ### Domingo
-- 7h30-8h   Check-In
-- 8h-9h     Divisão de Tribos
-- 9h-12h    Juntarada
-- 12h-13h   Cinema
-- 13h-14h   Check-In
-- 14h-14h30 Divisão de Tribos
-- 14h30-16h Juntarada
-- 16h-16h30 Cinema
+- 7h30-8h   Alvorada
+- 8h-9h     Pequeno-Almoço
+- 9h-12h    Jogo de Vila
+- 12h-13h   Momento de Animação
+- 13h-14h   Almoço
+- 14h-14h30 Tempo Livre
+- 14h30-16h Oficinas 
+- 16h-16h30 Encerramento
 
 ---
