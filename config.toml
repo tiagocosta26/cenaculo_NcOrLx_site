@@ -71,10 +71,6 @@ special = false
 [params.two]
 enable = true
 
-[[params.two.section.link]]
-href = "angariacoes-fundo/juntarada"
-text = "JUNTARADA"
-
 [[params.two.section]]
 img = "img/angariacoes.jpg"
 title = 'ANGARIAÇÕES DE FUNDOS'
