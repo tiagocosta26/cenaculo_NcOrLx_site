@@ -1,32 +1,32 @@
 +++
 weight = 1
-author = "Informações"
-title = "Informações - Encontro Local" 
+author = "Guião de Campo"
+title = "Guião de Campo - Pré-Cenáculo" 
 description = "Informações - Encontro Local" 
 +++
 
 Olá caminheiros,
 
-Tens dúvidas de como chegar ao ideal de um guerreiro dragão? 
-No Encontro Local,  vamos obter respostas para essas dúvidas, faz a mochila e fica atento às próximas informações.
+Aqui vão encontrar o que vamos fazer ao longo do Pré-Cenáculo!
 
 ---
 
-## Material
+## Horário
 
-### Material de Clã
-- Bandeira de Agrupamento
-- Tendas de Clã
-- Oleado/Toldo
-- Alguidar
-- Esponja
+### Sábado
+- 20h-21h   Check-In
+- 21h-22h   Divisão de Tribos
+- 22h-23h30 Juntarada
+- 23h30-01h Cinema
 
-### Material Individual
-- Farda Oficial
-- Tupperware
-- Prato, talheres e copo
-- Caderno e caneta
-- Algo para pintar: T-shirt, Tote, ...
-- Tampas para doar!!
+### Domingo
+- 7h30-8h   Check-In
+- 8h-9h     Divisão de Tribos
+- 9h-12h    Juntarada
+- 12h-13h   Cinema
+- 13h-14h   Check-In
+- 14h-14h30 Divisão de Tribos
+- 14h30-16h Juntarada
+- 16h-16h30 Cinema
 
 ---
