@@ -13,6 +13,9 @@ Com o nosso cancioneiro, guitarras e vozes maravilhosas, a EP esteve a cantar e 
 
 {{< figure src="/img/tunaculo/DSC02355.jpg" height="322px" width="429px" class="wrap-right" >}}
 
+
+
+
 Foram dois dias inteiros a espalhar alegria e a criar laços, até não podermos mais! Uma experiência que nos enriqueceu como EP e que nos deu vontade para continuar.😁
 
 Canhotas EpYcas,\
