@@ -24,7 +24,7 @@ Inscreve-te [**aqui**](https://docs.google.com/forms/d/e/1FAIpQLSeyoIEQY2S_RsxPa
 ### Datas e Localizações
 
 **Inicio**: 30 a Novembro 2023\
-**Fim**: 03 de DEzembro 2023
+**Fim**: 03 de Dezembro 2023
 
 [ACE - Apúlia Centro Escutista](https://maps.app.goo.gl/yT3FTvcwvcqQpTE89)
 
