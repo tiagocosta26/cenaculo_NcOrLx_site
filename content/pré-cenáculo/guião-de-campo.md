@@ -14,19 +14,18 @@ Aqui vão encontrar o que vamos fazer ao longo do Pré-Cenáculo!
 ## Horário
 
 ### Sábado
-- 20h-21h   Check-In
-- 21h-22h   Divisão de Tribos
-- 22h-23h30 Juntarada
-- 23h30-01h Cinema
+- 20h-21h   Bem-vindo a Berk
+- 21h-22h   Erguer os Estandartes
+- 22h-23h30 Comemos como os Vikings!
+- 23h30-01h Lendas de Berk
 
 ### Domingo
-- 7h30-8h  Alvorada
-- 8h-9h     Pequeno-Almoço
-- 9h-12h    Jogo de Vila
-- 12h-13h   Momento de Animação
-- 13h-14h   Almoço
-- 14h-14h30 Tempo Livre
-- 14h30-16h Oficinas
-- 16h-16h30 Encerramento
+- 7h30-8h   Alvorada
+- 8h-9h     Despertar dos Vikings
+- 9h-13h    Para Valhala!
+- 13h-14h   Banquete
+- 14h-14h30 Ver os Navios Passar
+- 14h30-16h Lições de Estratégia
+- 16h-16h30 Limpar o Convés
 
 ---
