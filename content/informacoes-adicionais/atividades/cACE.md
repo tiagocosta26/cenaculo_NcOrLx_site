@@ -1,14 +1,14 @@
 +++
 weight = 1
 author = "Equipa Projeto"
-title = "c'ACE"
-description = "c'ACE"
-summary = '''O **c'ACE** é uma atividade de Serviço destinada a Caminheiros, Candidatos a Dirigentes e Dirigentes do CNE, sem custo para os participantes. A ideia é promover o convívio entre todos, enquanto se deixa o ACE um pouco melhor!'''
+title = "c'ACE faz Serviço"
+description = "c'ACE faz Serviço"
+summary = '''O **c'ACE faz Serviço** é uma atividade de Serviço destinada a Caminheiros, Candidatos a Dirigentes e Dirigentes do CNE, sem custo para os participantes. A ideia é promover o convívio entre todos, enquanto se deixa o ACE um pouco melhor!'''
 +++
 
 ### Descrição
 
-O **c'ACE** é uma atividade de Serviço destinada a Caminheiros, Candidatos a Dirigentes e Dirigentes do CNE, sem custo para os participantes. A ideia é promover o convívio entre todos, enquanto se deixa o ACE um pouco melhor!\
+O **c'ACE faz Serviço** é uma atividade de Serviço destinada a Caminheiros, Candidatos a Dirigentes e Dirigentes do CNE, sem custo para os participantes. A ideia é promover o convívio entre todos, enquanto se deixa o ACE um pouco melhor!\
 Se achas que tens vontade e espírito de Serviço suficientes, junta-te a nós e põe as mãos no ACE!
 
 ---

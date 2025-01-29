@@ -5,7 +5,7 @@ title = "Guião de Campo - Pré-Cenáculo"
 description = "Informações - Encontro Local" 
 +++
 
-Olá caminheiros,
+Olá Caminheiros,
 
 Aqui vão encontrar o que vamos fazer ao longo do Pré-Cenáculo!
 
