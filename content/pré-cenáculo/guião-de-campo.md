@@ -20,7 +20,7 @@ Aqui vão encontrar o que vamos fazer ao longo do Pré-Cenáculo!
 - 23h30-01h Cinema
 
 ### Domingo
-- 7h30-8h <div style="text-align: right">    Alvorada </div>
+- 7h30-8h  Alvorada
 - 8h-9h     Pequeno-Almoço
 - 9h-12h    Jogo de Vila
 - 12h-13h   Momento de Animação
