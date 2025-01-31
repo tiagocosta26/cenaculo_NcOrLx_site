@@ -5,7 +5,7 @@ title = "Comunicação"
 description = "Comunicação"
 +++
 
-A Comunicação gere as redes sociais e a criação da identidade de marca de todas as comunicações do ciclo. Para além disso, ainda são responsáveis pela comunicação entre a EP e os Clãs.
+O departamento de Comunicação é responsável por gerir a presença nas redes sociais e garantir uma identidade visual coerente. Para isso, cria uma identidade de marca de todas as comunicações do ciclo, baseando-se no imaginário em vigor. São o garante da comunicação entre a Equipa Projeto e os Clãs.
 
 ---
 
