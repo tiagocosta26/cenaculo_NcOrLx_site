@@ -5,7 +5,7 @@ title = "Fórum"
 description = "Fórum"
 +++
 
-O Fórum recolhe problemas identificados pelos clãs e sugestões de temas para depois estruturar o centro do Cenáculo, o “fórum”. Cabe também ao Fórum, moderar todas as seções e garantir a criação da carta de Cenáculo.
+A equipa de Fórum é responsável por selecionar os temas a serem debatidos, escolher moderadores e oradores, e definir a abordagem dos tópicos ao longo do ciclo. Além disso, devem dinamizar os trabalhos de tribo, registar as conclusões das problemáticas abordadas e garantir o bom comportamento e postura durante os debates. Por fim, elaboram, em conjunto com todos os participantes, a Carta de Cenáculo.
 
 ---
 
