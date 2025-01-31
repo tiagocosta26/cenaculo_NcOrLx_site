@@ -37,7 +37,7 @@ Aqui vão encontrar o que vamos fazer ao longo do Pré-Cenáculo!
 23h30-01h | Lendas de Berk
 
 ### Domingo
-Domingo |
+ |
 :-------: | :-------:
 7h30-8h | Alvorada
 8h-9h | Despertar dos Vikings
