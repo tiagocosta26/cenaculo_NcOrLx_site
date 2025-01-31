@@ -5,7 +5,7 @@ title = "Logística"
 description = "Logística"
 +++
 
-A Logística planeia e estrutura todas as questões que implicam na experiência dos participantes no ciclo, ou seja, escolha de local, ementas, e transporte. Redigem também um orçamento e gerem os fundos do ciclo. Relacionam-se com todos os fornecedores e patrocinadores.
+O departamento de logística é responsável por gerir o orçamento e os fundos do ciclo, assegurando os custos com local, alimentação, materiais e transporte. Deve escolher e adaptar espaços conforme as necessidades do evento, mantendo sempre opções alternativas para locais, refeições e plenários. Além disso, trata de patrocínios e relaciona-se com patrocinadores e deve ser ágil e flexível para lidar com imprevistos, especialmente mudanças de última hora. Por fim, garante a organização dos espaços para um funcionamento eficiente.
 
 ---
 
