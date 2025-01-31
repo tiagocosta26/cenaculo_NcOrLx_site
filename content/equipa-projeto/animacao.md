@@ -5,7 +5,7 @@ title = "Animação"
 description = "Animação"
 +++
 
-A Animação elabora o imaginário, dinâmicas e envolvência dos caminheiros no imaginário ao longo do ciclo. 
+A equipa de Animação é responsável por escolher e desenvolver um imaginário que guie a experiência ao longo do ciclo. Devem dinamizar o Fogo de Conselho, promovendo momentos envolventes e significativos. Além disso, garantem a participação ativa dos caminheiros no imaginário, utilizando dinâmicas, aplausos e momentos de oração para fortalecer o ambiente de cada atividade.
 
 ---
 <!--more-->
