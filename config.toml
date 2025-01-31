@@ -9,8 +9,8 @@ googleAnalytics = "G-G847G6KWGL"
 [params]
 fancyTitle = '<img srcset="/img/logo.png 484w, /img/logo_sm.png 242w" sizes="(max-width: 600px) 242px, 484px"> <br/> XXIII Cenáculo NcOrLx'  # title for frontpage, may include image
 copyright = "XXIII Cenáculo NcOrLx"
-source = "https://github.com/CanIBeFii/cenaculo_NcOrLx_site"
-author = "CanIBeFii"
+#source = "https://github.com/CanIBeFii/cenaculo_NcOrLx_site"
+#author = "CanIBeFii"
 authorurl = "https://github.com/CanIBeFii"
 description = '7, 8 e 9 de março de 2025. Estás preparado?!' # description below title on frontpage
 startbuttonText = "Inscrições Pré-Cenáculo"  # text on the start button

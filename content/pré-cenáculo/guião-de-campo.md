@@ -16,7 +16,7 @@ Aqui vão encontrar o que vamos fazer ao longo do Pré-Cenáculo!
 ### Sábado
 - 20h-21h   Bem-vindo a Berk
 - 21h-22h   Erguer os Estandartes
-- 22h-23h30 Comemos como os Vikings!
+- 22h-23h30 Comemos como Vikings!
 - 23h30-01h Lendas de Berk
 
 ### Domingo
