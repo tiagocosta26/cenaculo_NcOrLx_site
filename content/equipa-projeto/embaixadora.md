@@ -6,7 +6,7 @@ weight = 100
 description = "Embaixadora"
 +++
 
-O Embaixador é responsável pela ligação entre a equipa projeto local com a nacional. Ajuda também a equipa projeto na construção da estrutura do ciclo, promovendo a criação de documentos orientadores. Dar a conhecer e motivar o tema da auscultação nacional. 
+O Embaixador é responsável pela ligação entre a equipa projeto local com a nacional. Ajuda também a equipa projeto na construção da estrutura do ciclo, promovendo a criação de documentos orientadores. Tem também como dever dar a conhecer e motivar o tema da auscultação nacional. 
 
 ---
 

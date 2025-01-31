@@ -5,7 +5,7 @@ title = "Observadores"
 description = "Observadores"
 +++
 
-Os Observadores são dirigentes responsáveis pela ligação dos trabalhos do ciclo à junta de núcleo, ajudam na orientação dos representantes ao longo do ciclo e são autênticos desbloqueadores de problemas. Faz ainda a representação do Cenáculo do Oriental nos encontros nacionais de observadores (OBSERvEM).
+Os Observadores são dirigentes responsáveis pela ligação dos trabalhos do ciclo à Junta de Núcleo. Ajudam na orientação dos representantes ao longo do ciclo e são autênticos desbloqueadores de problemas. Fazem ainda a representação do Cenáculo do Oriental nos encontros nacionais de observadores (OBSERvEM).
 
 ---
 
