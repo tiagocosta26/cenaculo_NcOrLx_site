@@ -17,11 +17,11 @@ A Sweatshirt do Núcleo Oriental de Lisboa chegou e ficou! Desde o XXIº Ciclo, 
 
 Contudo, neste Ciclo, decidimos renovar a nossa imagem, criando algo que nos represente verdadeiramente enquanto Caminheiros do Núcleo Oriental! A nova Sweatshirt será totalmente bordada, trazendo consigo os símbolos que nos definem, ilustram o Caminheirismo e reforçam a nossa identidade enquanto Caminheiros do Oriental.
 
-Nota: A Sweatshirt anterior já não será produzida, nem vendida, mas não será totalmente substituida pela nova, pelo que os Caminheiros podem utilizar qualquer uma das Sweatshirts de Cenáculo do NcOrLx nos momentos de Plenário no Encontro Local.
+**Nota:** A Sweatshirt anterior já não será produzida, nem vendida, mas não será totalmente substituida pela nova, pelo que os Caminheiros podem utilizar qualquer uma das Sweatshirts de Cenáculo do NcOrLx nos momentos de Plenário no Encontro Local.
 
 Adquire a tua e usa-a em todos os Ciclos de Cenáculo!
 
-Custo da sweat: 21€  
+Custo da sweat: **21€**  
 Compra [aqui](https://forms.gle/KRBVRdeZ3kuQ6ngX8)
 
 ---
