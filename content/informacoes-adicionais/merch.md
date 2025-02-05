@@ -11,14 +11,18 @@ Para nunca teres frio durante o Cenáculo, vê aqui a nossa merch e como a podes
 
 ---
 
-{{< figure src="/img/sweat.png" height="300px" width="550px" class="wrap-left">}}
+{{< figure src="/img/sweat2025.png" height="300px" width="550px" class="wrap-left">}}
 
-A Sweatshirt do Núcleo Oriental de Lisboa chegou e veio para ficar. Neste Ciclo, a Equipa Projeto não desviou os olhos à nossa responsabilidade ecológica, pelo que propomos que esta passe a ser a Sweatshirt do Cenáculo do Oriental, não apenas do Ciclo.
+A Sweatshirt do Núcleo Oriental de Lisboa chegou e ficou! Desde o XXIº Ciclo, a Equipa Projeto tem estado atenta às disparidades financeiras vividas pelos diferentes elementos deste grande Clã de Núcleo, bem como à nossa responsabilidade ecológica. Foi com esse espírito que adotámos a Sweatshirt do Cenáculo do Núcleo Oriental.
 
-Adquire-a e usa-a em todos os Ciclos de Cenáculo!
+Contudo, neste Ciclo, decidimos renovar a nossa imagem, criando algo que nos represente verdadeiramente enquanto Caminheiros do Núcleo Oriental! A nova Sweatshirt será totalmente bordada, trazendo consigo os símbolos que nos definem, ilustram o Caminheirismo e reforçam a nossa identidade enquanto Caminheiros do Oriental.
 
-Custo da sweat: 17.5€  
-Compra [aqui](https://forms.gle/MTijoYdjA5j7nWKu9)
+Nota: A Sweatshirt anterior já não será produzida, nem vendida, mas não será totalmente substituida pela nova, pelo que os Caminheiros podem utilizar qualquer uma das Sweatshirts de Cenáculo do NcOrLx nos momentos de Plenário no Encontro Local.
+
+Adquire a tua e usa-a em todos os Ciclos de Cenáculo!
+
+Custo da sweat: 21€  
+Compra [aqui](https://forms.gle/KRBVRdeZ3kuQ6ngX8)
 
 ---
 
