@@ -23,9 +23,9 @@ body_is_markdown = true
 url = '/'
 title = "Página Inicial"
 
-#[[params.menu.main]]
-#url = 'informacoes-adicionais/merch'
-#title = "Merch Cenáculo"
+[[params.menu.main]]
+url = 'informacoes-adicionais/merch'
+title = "Merch Cenáculo"
 
 [[params.menu.main]]
 url = '/equipa-projeto/'
