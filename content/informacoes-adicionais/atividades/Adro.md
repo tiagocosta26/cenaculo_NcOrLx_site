@@ -31,6 +31,8 @@ Neste contexto, o ADRO pretende proporcionar espaços regulares de alcance e par
 **Inicio**: 01 de Janeiro de 2024\
 **Fim**: 14 de Janeiro de 2024 -->
 
+### Edições
+
 A última edição do ADRO ocorreu nos dias 3 e 4 de fevereiro de 2024 em Almada, na região de Setúbal. Esta edição teve como tema “E vós quem dizeis que Eu sou?” e abordou seis painéis principais, começando com a integração e acolhimento na Igreja, seguido de um olhar sobre o que é ser jovem cristão. Também discutiu como Cristo se manifesta nas nossas atividades e questões como o papel da fé (se é recebida, aprendida ou pregada). O evento enfatizou a importância da comunicação, com o tema "como comunicar a Igreja".
 <!--
 ---
