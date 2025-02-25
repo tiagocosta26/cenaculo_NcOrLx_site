@@ -26,7 +26,7 @@ Esperamos que a vossa vontade de fazer Cenáculo tenha aumentado, que tenhamos c
 Canhotas ÉpYcas, 
 Equipa Projeto do XXIIIº Ciclo de Cenáculo do NcOrLx
 
-{{< figure src="/img/pre-cenaculo/pre_cenaculo.jpg" height="696px" width="464px" style="text-align: center;" >}}
+{{< figure src="/img/pre-cenaculo/pre_cenaculo.jpg" height="464px" width="696px" style="text-align: center;" >}}
 
 ---
 
