@@ -32,4 +32,4 @@ Equipa Projeto do XXIIIº Ciclo de Cenáculo do NcOrLx
 **Hora:** 20h00\
 **Local:** [Centro Pastoral e Paroquial de Moscavide](https://maps.app.goo.gl/ohJmay6Y2wHEcLsY7)
 
-{{< figure src="/img/pre-cenaculo/pre_cenaculo.jpg" height="161px" width="215px" class="wrap-left">}}
+{{< figure src="/img/pre-cenaculo/pre_cenaculo.jpg" height="6960px" width="4640px" class="wrap-left">}}
