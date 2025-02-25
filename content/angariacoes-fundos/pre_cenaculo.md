@@ -26,10 +26,10 @@ Esperamos que a vossa vontade de fazer Cenáculo tenha aumentado, que tenhamos c
 Canhotas ÉpYcas, 
 Equipa Projeto do XXIIIº Ciclo de Cenáculo do NcOrLx
 
+{{< figure src="/img/pre-cenaculo/pre_cenaculo.jpg" height="696px" width="464px" class="wrap-left">}}
+
 ---
 
 **Dia:** 8 e 9 de fevereiro de 2025 🗓️ \
 **Hora:** 20h00\
 **Local:** [Centro Pastoral e Paroquial de Moscavide](https://maps.app.goo.gl/ohJmay6Y2wHEcLsY7)
-
-{{< figure src="/img/pre-cenaculo/pre_cenaculo.jpg" height="6960px" width="4640px" class="wrap-left">}}
