@@ -1,7 +1,9 @@
 +++
+weight = 1
 author = "Missa"
 title = "Missa" 
 description = "Missa" 
+summary = '''Para que possam aquecer essas vozes e animar a nossa Aldeia!'''
 +++
 
 Para que possam aquecer essas vozes e animar a nossa Aldeia!

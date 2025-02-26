@@ -19,4 +19,4 @@ Aqui vão encontrar o que vamos fazer ao longo do Cenáculo.
 ## Para que nenhum Viking ande perdido!
 
 
-{{< figure src="/img/horárioXXIII.png" height="1169px" width="826px" class="wrap-center">}}
+{{< figure src="/img/horárioXXIII.jpg" height="1169px" width="826px" class="wrap-center">}}
