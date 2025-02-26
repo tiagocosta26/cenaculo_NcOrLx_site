@@ -46,8 +46,8 @@ Fez-se raiz de uma árvore renovando a vida
 **[Refrão]**
 \
 \
-
-**Perdoa-me Senhor** \
+\   
+**Perdoa-me Senhor** 
 
 Perdoa-me, Senhor \
 Às vezes esqueço que daí olhas por nós \
@@ -70,10 +70,10 @@ Por não lembrar que devo dar sem receber \
 E em vez de sim Te digo não \
 Por isso peço o Teu perdão, \
 Senhor.
-
-
-
-**Aleluia** \
+\
+\
+\
+**Aleluia**
 
 (x3) \
 Aleluia, Aleluia, Aleluia \
@@ -82,10 +82,10 @@ Aleluia, Aleluia, Aleluia \
 Aleluia, Aleluia \
 (na 3ª as vozes agudas:) \
 Aaaaa.. leeeee… luuuuu… iaa…
-
-
-
-**Oração de Santo Inácio** \
+\
+\
+\
+**Oração de Santo Inácio**
 
 Tomai, Senhor e recebei, \
 toda a minha liberdade \
@@ -100,10 +100,10 @@ Pela Vossa bondade. \
 Dai-me apenas Senhor. \
 O Vosso Amor e Graça, \
 que isso me basta.
-
-
-
-**Santo** \
+\
+\
+\
+**Santo**
 
 **[Refrão:]** \
 (Voz grave responde) \
@@ -117,10 +117,10 @@ Bendito o que vem em nome do Senhor: \
 Hossana nas alturas!
 
 **[Refrão]**
-
-
-
-**A Paz** \
+\
+\
+\
+**A Paz**
 
 A paz esteja convosco \
 Disse Jesus aos discípulos \
@@ -133,10 +133,10 @@ Que tirais o pecado do mundo \
 Tende piedade de nós, \
 Tende piedade de nós \
 (3ª vez) Dai-nos a paz, a paz!
-
-
-
-**Pão do Céu** \
+\
+\
+\
+**Pão do Céu**
 
 Pão do Céu, pão de Deus, Vida em mim és Senhor Jesus. \
 No caminho da vida és o pão que dá força e luz. \
@@ -150,7 +150,7 @@ Nem a vida, ou a morte, ou algum poder, \
 Do seu amor poderá jamais separar, \
 Para a vida sem fim ressuscitará. \
 
-**[Refrão:]** \
+**[Refrão:]**
 
 Eu sou o pão da vida. \
 Eu sou a ressurreição. \
@@ -174,10 +174,10 @@ Em caminhos e vales de solidão \
 Pois terá luz da vida, vida verdadeira.
 
 **[Refrão]**
-
-
-
-**Ó Senhora Minha** \
+\
+\
+\
+**Ó Senhora Minha**
 
 Ó Senhora minha, ó minha Mãe, \
 Eu me ofereço todo a vós \
@@ -196,9 +196,9 @@ Lembrai-vos, que vos pertenço, \
 Terna mãe, Senhora nossa. \
 Ah guardai-me, e defendei-me, \
 como coisa própria vossa.
-
-
-
+\
+\
+\
 **Amanhã**
 
 Uma manhã senti o futuro a chamar. \
@@ -234,10 +234,10 @@ Tens a L.U.A, o luar. \
 Ser Astronauta é imaginar. \
 Que a vida não pode parar... \
 Cenáculo é amor!
-
-
-
-**A Dança da Vida** \
+\
+\
+\
+**A Dança da Vida**
 
 Dei por mim sentado \
 Sem ninguém a meu lado \
@@ -248,7 +248,7 @@ Andei sobre o mar \
 E em BP encontrei \
 Um lenço para me guiar
 
-**[Pré refrão:]**
+**[Pré refrão:]** \
 Dá dois passos para frente \
 Agora dois passos para trás \
 É a dança da vida \
