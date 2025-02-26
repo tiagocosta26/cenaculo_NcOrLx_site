@@ -1,7 +1,7 @@
 +++
-author = "Cancioneiro"
-title = "Cancioneiro" 
-description = "Cancioneiro" 
+author = "Missa XXIIIº Ciclo"
+title = "Missa XXIIIº Ciclo" 
+description = "Missa XXIIIº Ciclo" 
 +++
 
 Para que possam aquecer essas vozes e animar a nossa Aldeia!
@@ -11,7 +11,7 @@ Para que possam aquecer essas vozes e animar a nossa Aldeia!
 
 <!--**Cancioneiro - Missa XXIIIº Ciclo** [Cancioneiro](https://maps.app.goo.gl/5UpepuxJ5T41kN6B9)-->
 
-**Cancioneiro - Missa XXIIIº Ciclo**
+**Missa XXIIIº Ciclo**
 
 ---
 
