@@ -11,7 +11,7 @@ Os Observadores são dirigentes responsáveis pela ligação dos trabalhos do ci
 
 <!--more-->
 
-{{< figure src="/img/equipa-projeto/anabela.jpg" height="300px" width="300px" class="wrap-left">}}
+{{< figure src="/img/equipa-projeto/claudia.jpg" height="300px" width="300px" class="wrap-left">}}
 ​  
 Olá Caminheiros Vikings! 
 Sou a **Cláudia**, a observadora de serviço! Aceitei este convite porque para mim, a IV seção é desafiante, o topo do monte, o Piquinho do Pico!

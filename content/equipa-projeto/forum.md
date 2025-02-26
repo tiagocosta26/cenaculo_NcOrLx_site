@@ -11,7 +11,7 @@ A equipa de Fórum é responsável por selecionar os temas a serem debatidos, es
 
 <!--more-->
 
-{{< figure src="/img/equipa-projeto/torres.jpg" height="300px" width="300px" class="wrap-left">}}
+{{< figure src="/img/equipa-projeto/leonor.jpg" height="300px" width="300px" class="wrap-left">}}
 ​​​  
 Alô, Vikings!
 Sou a **Leonor**, do Agrupamento 61 - Sta. Maria dos Olivais, entrei nos escuteiros aos 7 anos e desde aí que criei uma ligação a estes mares. Faço parte do departamento do fórum e o dragão que mais me representa é o Gronkel (apesar de discordar com a EP, mas isso é outra história...).
@@ -21,7 +21,7 @@ Espero que adorem o que aí vem, que se desafiem a treinar o vosso dragão inter
 
 ---
 
-{{< figure src="/img/equipa-projeto/margarida.jpg" height="300px" width="300px" class="wrap-right" >}}
+{{< figure src="/img/equipa-projeto/mateus.jpg" height="300px" width="300px" class="wrap-right" >}}
 ​  
 Caros Caminheiros, sou o **João Mateus**, tenho 21 anos e estou no último ano da melhor secção, a nossa IVª. Venho do agrupamento 63 - Graça e estou no departamento do Fórum.
 Estou a estudar Gestão na Católica e quando for grande gostava muito de viajar pelo mundo.

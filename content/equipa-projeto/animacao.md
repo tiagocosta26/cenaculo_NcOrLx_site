@@ -10,7 +10,7 @@ A equipa de Animação é responsável por escolher e desenvolver um imaginário
 ---
 <!--more-->
 
-{{< figure src="/img/equipa-projeto/veloza.jpg" height="300px" width="300px" class="wrap-left">}}
+{{< figure src="/img/equipa-projeto/mariana.jpg" height="300px" width="300px" class="wrap-left">}}
 ​​  
 Olá a todos!!!
 Sou a **Mariana Fernandes** do 67- Bairro da Encarnação! 
@@ -20,9 +20,9 @@ Sou divertida e desastrada, tal como um Zippleback! Se houvesse um Zippleback co
 Não sei se é assim tão óbvio, mas eu sou a cabeça esquerda do dragão (por insistência do Pedro).
 Podem esperar tudo de mim neste departamento que é uma  Animação!! 😜
 
-
 ---
-{{< figure src="/img/equipa-projeto/joana.jpg" height="300px" width="300px" class="wrap-right" >}}
+
+{{< figure src="/img/equipa-projeto/pedro.jpg" height="300px" width="300px" class="wrap-right" >}}
 ​  
 Alô Caminheiros!!! 
 O meu nome é **Pedro Neves** e sou escuteiro do 683 Telheiras! Entrei no movimento com 8 anos, mas saí com 9 e voltei com força aos 10. Desde então, usar um lenço ao pescoço faz parte de mim :)

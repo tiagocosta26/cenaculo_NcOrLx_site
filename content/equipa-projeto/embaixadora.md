@@ -12,7 +12,7 @@ O Embaixador é responsável pela ligação entre a equipa projeto local com a n
 
 <!--more-->
 
-{{< figure src="/img/equipa-projeto/cesário.jpg" height="300px" width="300px" class="wrap-left">}}
+{{< figure src="/img/equipa-projeto/lara.jpg" height="300px" width="300px" class="wrap-left">}}
 ​  
 Olá Oriental! 
 Voltamos a encontrar-nos! Para quem não me conhece, o meu nome é **Lara**, sou do agrupamento 42 - Penha de França e estou no meu quinto ano na IV. 🚨

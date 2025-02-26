@@ -12,7 +12,7 @@ Ao longo do ciclo são responsáveis por constituir e gerir a equipa projeto, e 
 ---
 <!--more-->
 
-{{< figure src="/img/equipa-projeto/lara.jpg" height="300px" width="300px" class="wrap-left">}}
+{{< figure src="/img/equipa-projeto/veloza.jpg" height="300px" width="300px" class="wrap-left">}}
 ​  
 ​
 Olá Viiiikingsssss 🤘🏼
@@ -24,11 +24,9 @@ Voar com os dragões, das várias aldeias, ao som de guitarras, cajons, ukeleles
 Vikings, nada temam!! Vivam a nossa aldeia, partilhem histórias das vossas aventuras e avancem com a mudança… O nosso destino está nas vossas mãos, calcadas 🤭
 Sejam Felizes!!
 
-
-
 ---
 
-{{< figure src="/img/equipa-projeto/tobias.jpg" height="300px" width="300px" class="wrap-right" >}}
+{{< figure src="/img/equipa-projeto/sant'ana.jpg" height="300px" width="300px" class="wrap-right" >}}
 ​
 
 Olá Caminheiros,
