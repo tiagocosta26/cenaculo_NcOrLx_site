@@ -1,5 +1,4 @@
 +++
-weight = 1
 author = "Cancioneiro"
 title = "Cancioneiro" 
 description = "Cancioneiro" 
@@ -8,6 +7,7 @@ description = "Cancioneiro"
 Para que possam aquecer essas vozes e animar a nossa Aldeia!
 
 ---
+<!--more-->
 
 <!--**Cancioneiro - Missa XXIIIº Ciclo** [Cancioneiro](https://maps.app.goo.gl/5UpepuxJ5T41kN6B9)-->
 
