@@ -1,7 +1,7 @@
 +++
 author = "Equipa Projeto"
 title = "Representantes"
-subtitle = "Conhece a Melosa e o Jôdu!"
+subtitle = "Conhece a catarina e o Sant'Ana!"
 weight = 10
 description = "Representantes"
 +++

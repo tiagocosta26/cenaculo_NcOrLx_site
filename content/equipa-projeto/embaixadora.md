@@ -1,7 +1,7 @@
 +++
 author = "Equipa Projeto"
 title = "Embaixadora"
-subtitle = "Conhece a Lara! (namorada do Tiago)"
+subtitle = "Conhece a Lara!"
 weight = 100
 description = "Embaixadora"
 +++

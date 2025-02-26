@@ -1,7 +1,7 @@
 +++
 author = "Equipa Projeto"
 title = "Animação"
-#subtitle = "<!--Conhece a Catarina e a Joana!-->"
+subtitle = "Conhece a Mariana e o Pedro!"
 description = "Animação"
 +++
 
@@ -12,18 +12,24 @@ A equipa de Animação é responsável por escolher e desenvolver um imaginário
 
 <!--{{< figure src="/img/equipa-projeto/veloza.jpg" height="300px" width="300px" class="wrap-left">}}
 ​​  
-Alo caminheiros!! o meu nome é **Catarina Veloza** ,sou do agrupamento 51 Santa Engrácia e já estou no movimento há alguns anitos, visto que entrei oficialmente em 2010.
-Sou uma pessoa sempre pronta a fazer amigos, a rir e a atrapalhar , por isso posso dizer que me identifico com o _Po_, sou descontraída mas determinada 🐼
-Uma curiosidade sobre mim, é que nunca participei num Cenáculo, por isso para além de esperar descobrir um pouco mais sobre a atividade espero também fazer com que toda a gente se divirta e claro que sejam felizes!!
-Canhotas,
-esquila alucinada
+Olá a todos!!!
+Sou a **Mariana Fernandes** do 67- Bairro da Encarnação! 
+Sou escuteira desde os 6 anos e desde então gosto de dizer que vivo a vida fardada! 
+Gosto de cantar, fazer os outros rir e estar lá sempre pronta para estender a mão! Não me metam uma viola á frente que eu não toco 😅, mas podem ter a certeza que vou saber a música para acompanhar! Sou uma tagarela, não me calo, adoro conversar e conhecer pessoas novas! 
+Sou divertida e desastrada, tal como um Zippleback! Se houvesse um Zippleback cor-de-rosa era eu de certeza! (rosa é a minha personalidade ✨)
+Não sei se é assim tão óbvio, mas eu sou a cabeça esquerda do dragão (por insistência do Pedro).
+Podem esperar tudo de mim neste departamento que é uma  Animação!! 😜
+
 
 ---
 {{< figure src="/img/equipa-projeto/joana.jpg" height="300px" width="300px" class="wrap-right" >}}
 ​  
-Alôoo, eu sou a **Joana Cristóvão** do agrupamento 760 Beato. Na teoria, sou escuteira desde os 6 anos mas, na prática, gosto de dizer que é desde a barriga da minha mãe.
-Cresci a ver os filmes do panda do kung fu, por isso, ao longo dos anos, fui observando as diferentes personagens enquanto tentava perceber em quem mais me revia, até que me deparei com a _Víbora_✨. À primeira vista, nenhuma de nós parece muito simpática, mas somos ambas sociáveis ou, como eu gosto de dizer, um bolo fofo! Tal como ela, preocupo-me bastante com quem me rodeia.
-Neste ciclo, espero que os caminheiros cresçam, tal como o Po, confiantes em si mesmos e sabendo que dentro de uma equipa ninguém fica para trás. Somos todos um ao irmos mais além!☺️-->
+Alô Caminheiros!!! 
+O meu nome é **Pedro Neves** e sou escuteiro do 683 Telheiras! Entrei no movimento com 8 anos, mas saí com 9 e voltei com força aos 10. Desde então, usar um lenço ao pescoço faz parte de mim :)
+Adoro uma boa comida, tocar guitarra e todo o tipo de humor! 
+Posso ter uma personalidade meio Gronkel (comilão, bom ouvinte, ótimos conselhos e espectador do caos!) mas verdadeiramente sou mais como o Zippleback! Cheio de energia e pronto para armar confusão para fazer os outros rir! Na verdade, sou especificamente a cabeça direita (por insistência da Mariana)!
+Se precisarem de melhorar o vosso dia, um conselho ou de alguém para falar avisem-me and 🎶I'll be there for you🎵 para vos trazer um pouco de animação!! 💃🎸😁
+
 
 ​  
 ​

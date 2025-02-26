@@ -1,7 +1,7 @@
 +++
 author = "Equipa Projeto"
 title = "Comunicação"
-#subtitle = "<!--Conhece a Beatriz e a Mariana!-->"
+#subtitle = "<!--Conhece a Mariana e a Rita!-->"
 description = "Comunicação"
 +++
 
@@ -13,11 +13,14 @@ O departamento de Comunicação é responsável por gerir a presença nas redes 
 
 <!--{{< figure src="/img/equipa-projeto/bia.jpg" height="300px" width="300px" class="wrap-left">}}
 ​​  
-Hey Caminheiros,
-Sou a **Beatriz Vieira** do Agrup. 63°- Graça, estou nos escuteiros desde os meus 8 anos. 
-A minha personagem do Panda do Kung Fu com que mais me identifico é o _Po_, claramente pela comida tal como eu a comida é a minha motivação, piadas à parte, eu identifico-me com o Po tenho alguns problemas de autoconfiança mas acredito que com tempo e a motivação certa eu consigo acreditar em mim e no meu trabalho. 
-Espero que este ciclo possa contribuir para cada um de nós melhorar-se um pouco, criarmos novos amigos e aprendermos a confiarmos em nós próprios e nas nossas capacidades. 
-Os caminheiros se quiserem são uma força imbatível só precisamos de trabalhar em equipa como os grandes 5 e o Po.
+Heyy Vikings!! 
+Sou a **Mariana Barata**, do 848 - N.S.R. Fátima, tenho 19 anos e estou no meu segundo ano de IV. 
+Sou escuteira desde os 8 anos e, inicialmente, estava no Núcleo Solarius. 
+Tive de sair do movimento no meu segundo ano de III, o que me fez perceber que algo estava em falta para me sentir realizada. Foi então que ingressei no NcOrLx, e acreditem, tem sido uma experiência incrível! 🤩
+Sempre disse que a II era a minha secção, mas mal sabia o que estava por vir ✨. 
+Gosto muito de acampar, construir, cantar músicas escutistas ao som das guitarras e de meter os pés numa bola sempre que surge uma oportunidade 🤪. Sou tímida, mas adoro fazer os outros rir. Sou organizada e aventureira! Vejo no Cenáculo uma oportunidade não só para ajudar os caminheiros a saírem da sua zona de conforto, mas também para sair da minha, partilhar experiências e contribuir para a mudança 😉. 
+Posso ser um Nadder Mortal, mas não se preocupem, não cuspo fogo. Da minha parte só precisam de ter cuidado com o flash nos olhos!! 📸😅
+
 
 
 ---
