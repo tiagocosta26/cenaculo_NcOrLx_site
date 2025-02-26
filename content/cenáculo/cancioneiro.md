@@ -13,7 +13,7 @@ Para que possam aquecer essas vozes e animar a nossa Aldeia!
 
 # Cancioneiro - Missa XXIIIº Ciclo 
 
-**Despertou De um Sonho** \
+**Despertou De um Sonho**
 
 Despertou de um sonho \
 Um homem viu \
@@ -23,7 +23,7 @@ A semente da nova alegria
 Dando a mão a quem precisa \
 Sempre certos da divisa \
 Caminhando monte a cima \
-Renovando a vida \
+Renovando a vida
 
 **[Refrão:]** \
 Olhar o mundo como ele o vê \
@@ -43,9 +43,9 @@ E ao romper de um novo dia \
 Vendo a gente que o seguia \
 Fez-se raiz de uma árvore renovando a vida
 
-**[Refrão]** \
-
-
+**[Refrão]**
+\
+\
 
 **Perdoa-me Senhor** \
 
