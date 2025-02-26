@@ -106,7 +106,7 @@ href = "encontros-locais/Pré-Cenáculo/pre_cenaculo"
 text = "PRÉ-CENÁCULO"
 
 [[params.two.section.link]]
-href = "forum"
+href = "cenáculo"
 text = "CENÁCULO"
 
 #[[params.two.section.link]]
