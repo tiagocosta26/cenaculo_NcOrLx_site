@@ -1,8 +1,8 @@
 +++
 weight = 1
-author = "Informações"
-title = "Informações - Encontro Local" 
-description = "Informações - Encontro Local" 
+author = "Cancioneiro"
+title = "Cancioneiro" 
+description = "Cancioneiro" 
 +++
 
 Olá caminheiros,
