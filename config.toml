@@ -96,14 +96,14 @@ href = "angariacoes-fundos/cafe-concerto"
 text = "CAFÉ CONCERTO"
 
 [[params.two.section]]
-img = "img/Pre-cenaculo.jpg"
-title = 'PRÉ-CENÁCULO'
-body = 'Rumo ao Pré-Cenáculo!'
+img = "img/Encontros Locais.jpg"
+title = 'Encontros Locais'
+body = 'Rumo aos Encontros Locais!'
 button = true
 
 [[params.two.section.link]]
-href = "pré-cenáculo/informações"
-text = "INFORMAÇÕES"
+href = "pré-cenáculo/pre_cenaculo"
+text = "Pré-Cenáculo"
 
 [[params.two.section.link]]
 href = "pré-cenáculo/guião-de-campo"
