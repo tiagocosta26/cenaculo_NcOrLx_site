@@ -10,6 +10,7 @@ Tens dúvidas de como chegar ao ideal de um guerreiro dragão?
 No Encontro Local,  vamos obter respostas para essas dúvidas, faz a mochila e fica atento às próximas informações.
 
 ---
+<!--more-->
 
 ## Material
 

@@ -1,7 +1,7 @@
 +++
-author = "Missa XXIIIº Ciclo"
-title = "Missa XXIIIº Ciclo" 
-description = "Missa XXIIIº Ciclo" 
+author = "Missa"
+title = "Missa" 
+description = "Missa" 
 +++
 
 Para que possam aquecer essas vozes e animar a nossa Aldeia!
@@ -10,10 +10,6 @@ Para que possam aquecer essas vozes e animar a nossa Aldeia!
 <!--more-->
 
 <!--**Cancioneiro - Missa XXIIIº Ciclo** [Cancioneiro](https://maps.app.goo.gl/5UpepuxJ5T41kN6B9)-->
-
-**Missa XXIIIº Ciclo**
-
----
 
 **Despertou De um Sonho**
 
