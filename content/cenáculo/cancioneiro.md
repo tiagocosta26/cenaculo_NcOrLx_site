@@ -11,8 +11,10 @@ Para que possam aquecer essas vozes e animar a nossa Aldeia!
 
 <!--**Cancioneiro - Missa XXIIIº Ciclo** [Cancioneiro](https://maps.app.goo.gl/5UpepuxJ5T41kN6B9)-->
 
-# Cancioneiro - Missa XXIIIº Ciclo 
-
+**Cancioneiro - Missa XXIIIº Ciclo**
+\
+\
+\
 **Despertou De um Sonho**
 
 Despertou de um sonho \
@@ -46,7 +48,7 @@ Fez-se raiz de uma árvore renovando a vida
 **[Refrão]**
 \
 \
-\   
+   
 **Perdoa-me Senhor** 
 
 Perdoa-me, Senhor \
@@ -148,7 +150,7 @@ Bom pastor és caminho seguro verdade e vida. \
 Quem te segue não anda no mundo perdido e só. \
 Nem a vida, ou a morte, ou algum poder, \
 Do seu amor poderá jamais separar, \
-Para a vida sem fim ressuscitará. \
+Para a vida sem fim ressuscitará.
 
 **[Refrão:]**
 
@@ -159,7 +161,7 @@ Pão de vida e unidade. \
 Permanecei em mim: \
 Eu a videira vós os ramos. \
 Tomai e bebei este é o meu sangue \
-Para a vossa salvação. \
+Para a vossa salvação.
 
 Pão do céu é o maná que nos dás com sabor a ti \
 És a força que alenta o nosso peregrinar. \
@@ -252,7 +254,7 @@ Um lenço para me guiar
 Dá dois passos para frente \
 Agora dois passos para trás \
 É a dança da vida \
-Mostra do que és capaz \
+Mostra do que és capaz
 
 **[Refrão:] (2x)** \
 Vem connosco dançar \
