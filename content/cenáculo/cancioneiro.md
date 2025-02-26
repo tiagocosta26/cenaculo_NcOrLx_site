@@ -87,21 +87,32 @@ Aaaaa.. leeeee… luuuuu… iaa…
 
 ---
 
-**Oração de Santo Inácio**
+**Vasos de Barro**
 
-Tomai, Senhor e recebei, \
-toda a minha liberdade \
-a minha memória e o meu entendimento, \
-Toda a minha vontade, \
-E tudo o que eu possuo. \
-Vós mo destes, \
-a Vós o restituo.
+Nós não nos pregamos a nós, mas ao Senhor, \
+E apenas o fazemos por Seu Amor. \
+Das trevas, resplandece a Luz, disse Deus, \
+E foi Ele quem brilhou no coração dos seus.
 
-Tudo é Vosso, disponde. \
-Pela Vossa bondade. \
-Dai-me apenas Senhor. \
-O Vosso Amor e Graça, \
-que isso me basta.
+Trazemos, porém, este Tesouro em vasos de barro, \
+Para que se possa ver vir de Deus esse poder.
+
+Em tudo somos atribulados e perseguidos, \
+Mas não desamparados e nunca vencidos. \
+No nosso corpo levamos, sem cessar, \
+A morte de Jesus, p’rá Sua Vida manifestar. \
+Trazemos, porém, este Tesouro em vasos de barro, \
+Para que se possa ver vir de Deus esse poder. \
+
+Sabemos que Aquele que O ressuscitou \
+Também ressuscitará aqueles para quem olhou. \
+E assim, jamais iremos perder a alegria. \
+Grande é o peso da Glória que nos espera um dia. \
+
+Trazemos, porém, este Tesouro em vasos de barro, \
+Para que se possa ver vir de Deus esse poder. \
+Trazemos, porém, este Tesouro em vasos de barro, \
+Para que se possa ver vir de Deus esse poder. \
 
 ---
 
