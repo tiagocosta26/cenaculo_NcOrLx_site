@@ -11,13 +11,13 @@ Para que possam aquecer essas vozes e animar a nossa Aldeia!
 
 <!--**Cancioneiro - Missa XXIIIº Ciclo** [Cancioneiro](https://maps.app.goo.gl/5UpepuxJ5T41kN6B9)-->
 
-# Cancioneiro - Missa XXIIIº Ciclo
+# Cancioneiro - Missa XXIIIº Ciclo 
 
-Despertou De um Sonho
-Despertou de um sonho
-Um homem viu
-E fez nascer um cada olhar
-A semente da nova alegria
+**Despertou De um Sonho** \
+Despertou de um sonho \
+Um homem viu \
+E fez nascer um cada olhar \
+A semente da nova alegria \
 
 Dando a mão a quem precisa
 Sempre certos da divisa
