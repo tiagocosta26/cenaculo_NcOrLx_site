@@ -12,7 +12,7 @@ Ao longo do ciclo são responsáveis por constituir e gerir a equipa projeto, e 
 ---
 <!--more-->
 
-{{< figure src="/img/equipa-projeto/veloza.jpg" height="300px" width="300px" class="wrap-left">}}
+{{< figure src="/img/equipa-projeto/veloza.jpg" height="533px" width="426px" class="wrap-left">}}
 ​  
 ​
 Olá Viiiikingsssss 🤘🏼
