@@ -11,7 +11,7 @@ O departamento de Comunicação é responsável por gerir a presença nas redes 
 
 <!--more-->
 
-<!--{{< figure src="/img/equipa-projeto/bia.jpg" height="300px" width="300px" class="wrap-left">}}
+{{< figure src="/img/equipa-projeto/bia.jpg" height="300px" width="300px" class="wrap-left">}}
 ​​  
 Heyy Vikings!! 
 Sou a **Mariana Barata**, do 848 - N.S.R. Fátima, tenho 19 anos e estou no meu segundo ano de IV. 
@@ -27,7 +27,9 @@ Posso ser um Nadder Mortal, mas não se preocupem, não cuspo fogo. Da minha par
 
 {{< figure src="/img/equipa-projeto/mariana.jpg" height="300px" width="300px" class="wrap-right" >}}
 
-Alô malta, tudo bem?
-Sou a **Mariana Silva** do Agr. 50 - São João de Brito e estou nos escuteiros desde os 6 anos.
-A personagem do Panda do Kung Fu com que mais me identifico é a _Tigresa_, pelo facto de ser um bocado teimosa (só um bocadito mesmo) e pela sua determinação. Para além disso, sinto que posso ser um pouco séria no início até me dar a conhecer, tal como ela! Acho que o segredo está no trabalho de equipa, a tigresa não seria a mesma sem os que a rodeiam!
-Espero que neste Cenáculo, possa contribuir para a criação de momentos de partilha entre todos os elementos do nosso núcleo, dando asas aquilo que a IV representa para nós enquanto caminheiros :)-->
+Olá Caminheiros Vikings! 
+Eu sou a **Rita**, mais conhecida por Ritinha Cp! Tenho 20 anos, estou no terceiro ano da IV e 13⁰ ano  escutista! Desde piquena (lol🤭) no Agrup. 43 - São Jorge de Arroios 😋! Estou na comunicação, que na realidade quer dizer que sou a influencer de serviço 💃🏻✨️✨️
+Estudo Design Gráfico, adoro cantar e dançar (especialmente quando é à frente do espelho), dar miminhos a animais, ler romances e socializar! Dizem que sou a beata do grupo porque vou à Missão País e porque das duas anilhas que tenho, uma é uma cruz e a outra uma bíblia 😅 #amen🙏🏻.
+Neste Ciclo de Cenáculo espero que os Caminheiros possam aprender muito do que é a IV e saber que fazer parte dela traz impacto a este nosso Núcleo, que nós temos voz própria e fazemos a diferença!
+Sou um Nadder Mortal, mas garanto que nas fotografias não vos deixo ficar mal! Beijocas 🌟!
+

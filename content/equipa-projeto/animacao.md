@@ -10,7 +10,7 @@ A equipa de Animação é responsável por escolher e desenvolver um imaginário
 ---
 <!--more-->
 
-<!--{{< figure src="/img/equipa-projeto/veloza.jpg" height="300px" width="300px" class="wrap-left">}}
+{{< figure src="/img/equipa-projeto/veloza.jpg" height="300px" width="300px" class="wrap-left">}}
 ​​  
 Olá a todos!!!
 Sou a **Mariana Fernandes** do 67- Bairro da Encarnação! 

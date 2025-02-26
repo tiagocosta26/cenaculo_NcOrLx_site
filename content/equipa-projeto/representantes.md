@@ -1,7 +1,7 @@
 +++
 author = "Equipa Projeto"
 title = "Representantes"
-subtitle = "Conhece a catarina e o Sant'Ana!"
+subtitle = "Conhece a Catarina e o Sant'Ana!"
 weight = 10
 description = "Representantes"
 +++
@@ -12,11 +12,11 @@ Ao longo do ciclo são responsáveis por constituir e gerir a equipa projeto, e 
 ---
 <!--more-->
 
-<!--{{< figure src="/img/equipa-projeto/lara.jpg" height="300px" width="300px" class="wrap-left">}}
+{{< figure src="/img/equipa-projeto/lara.jpg" height="300px" width="300px" class="wrap-left">}}
 ​  
 ​
 Olá Viiiikingsssss 🤘🏼
-Eu sou a Desdentada da equipa, mas há quem me chame de Veloza.
+Eu sou a Desdentada da equipa, mas há quem me chame de **Veloza**.
 Como o meu nome indica, voo com alta velocidade tal como o Desdentado e ambos somos mega ✨desastrados✨.
 Estou no meu quarto ano de treino para ser o melhor dragão!! E pairo sobre a aldeia do 61 Sta.Maria dos Olivais 🌞
 Reza a lenda que ando aqui a coordenar algo, mal eles sabem que o meu papel continua a ser destabilizar e garantir que todos sejam FELIZES!!
@@ -32,6 +32,6 @@ Sejam Felizes!!
 ​
 
 Olá Caminheiros,
-Sou o João Sant'Ana do 683-Telheiras, tenho 21 anos, estou no meu último ano da IV, e sou o vosso Desdentado! Estudo Engenharia Aeroespacial, gosto de acampar, ler e tocar guitarra 🤘
+Sou o **João Sant'Ana** do 683-Telheiras, tenho 21 anos, estou no meu último ano da IV, e sou o vosso Desdentado! Estudo Engenharia Aeroespacial, gosto de acampar, ler e tocar guitarra 🤘
 Neste ciclo de Cenáculo espero que os Caminheiros do Núcleo compreendam melhor como podem usar o poder que têm no CNE. Não tenham medo de participar! (Mas cuidado com as farpas na sala de Fórum👀).
 

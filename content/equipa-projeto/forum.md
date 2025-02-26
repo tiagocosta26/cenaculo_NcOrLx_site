@@ -1,7 +1,7 @@
 +++
 author = "Equipa Projeto"
 title = "Fórum"
-#subtitle = "<!--Conhece a Catarina e o Margarida!-->"
+subtitle = "Conhece a Leonor e o Mateus!"
 description = "Fórum"
 +++
 
@@ -11,20 +11,25 @@ A equipa de Fórum é responsável por selecionar os temas a serem debatidos, es
 
 <!--more-->
 
-<!--{{< figure src="/img/equipa-projeto/torres.jpg" height="300px" width="300px" class="wrap-left">}}
+{{< figure src="/img/equipa-projeto/torres.jpg" height="300px" width="300px" class="wrap-left">}}
 ​​​  
-Olá Camis, espero que estejam super entusiasmados para mais um Cenáculo! Sou a **Catarina Torres** do agrupamento 541 - Pio XII e sou escuteira desde 2012. 
-A personagem do Panda do Kung Fu que sinto que me é mais próxima é a Mestre _Tigresa_, muito desconfiada ao início, mas que aos poucos se abre ao Po, nunca deixando de lado a sua precisão (ainda que exagerando um pouco na força de vez em quando ahahah)
-Deste Cenáculo espero ajudar a trazer ao de cima a voz e a crítica de todos os elementos do nosso clã de núcleo para a construção de uma Carta de Cenáculo coesa e clara.
-Let's Go?
-
+Alô, Vikings!
+Sou a **Leonor**, do Agrupamento 61 - Sta. Maria dos Olivais, entrei nos escuteiros aos 7 anos e desde aí que criei uma ligação a estes mares. Faço parte do departamento do fórum e o dragão que mais me representa é o Gronkel (apesar de discordar com a EP, mas isso é outra história...).
+Aventurei-me por esta aldeia para ser parte da mudança e tentar trazer uma certa leveza ao encontro, pois acredito que assim, podemos perceber melhor a sua importância e conectarmo-nos uns com os outros. A mudança depende de cada um de nós, de abraçarmos o desconhecido e falarmos a nossa verdade, por isso, decidi levantar voo!
+Sou bastante teimosa, o que às vezes me ajuda a seguir em frente e tento ser sempre positiva, pois acredito ser o que mantém a calma num grande grupo. Se ainda não me ouviram sem estar rouca, também não será desta!
+Espero que adorem o que aí vem, que se desafiem a treinar o vosso dragão interior e, sobretudo, que se apaixonem por esta incrível vivência que é ser Caminheiro!
 
 ---
 
 {{< figure src="/img/equipa-projeto/margarida.jpg" height="300px" width="300px" class="wrap-right" >}}
 ​  
-Alô malta, sou a **Margarida** do 63. Entrei nos escuteiros há mais ou menos 10 anos.
-Identifico-me mais com o _Louva_ porque tal como ele era uma pessoa extremamente impaciente (ainda sou um pouco), até aprender que o nosso ouro está na paciência. Também somos os dois muito rápidos, Kachow! 
-Espero fazer deste Cenáculo um momento mudança para os elementos. Não esquecendo nunca a frase “o sucesso desta atividade depende de nós”!-->
+Caros Caminheiros, sou o **João Mateus**, tenho 21 anos e estou no último ano da melhor secção, a nossa IVª. Venho do agrupamento 63 - Graça e estou no departamento do Fórum.
+Estou a estudar Gestão na Católica e quando for grande gostava muito de viajar pelo mundo.
+Gosto de estar com os meus amigos, de comer boa comida, de viajar e de dormir!
+Todos os que me conhecem sabem que tenho uma agenda caótica, e que raramente chego a horas às reuniões! Mas não vai acontecer no Cenáculo 🫣 
+Espero que este Ciclo do Cenáculo possa ser um ciclo que impacte verdadeiramente o Clã de Núcleo, e que seja um motor para que os Caminheiros se possam unir e comprometer mais.
+Dizem por aí que os Gronckles não sabem voar, mas eu ouvi dizer que organizam o melhor Fórum de sempre!!!
+Canhota amiga :)
+
 
 ​
