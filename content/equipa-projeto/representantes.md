@@ -11,7 +11,8 @@ Ao longo do ciclo são responsáveis por constituir e gerir a equipa projeto, e 
 
 ---
 <!--more-->
-​{{< figure src="/img/equipa-projeto/sant'ana.jpg" height="330px" width="300px" class="wrap-right" >}}
+​{{< figure src="/img/equipa-projeto/sant'ana.jpg" height="420px" width="380px" class="wrap-right" >}}
+{{< figure src="/img/equipa-projeto/veloza.jpg" height="420px" width="380px" class="wrap-left">}}
 Olá Caminheiros, \
 Sou o **João Sant'Ana** do 683-Telheiras, tenho 21 anos, estou no meu último ano da IV, e sou o vosso Desdentado! \
 Estudo Engenharia Aeroespacial, gosto de acampar, ler e tocar guitarra 🤘 \
@@ -19,7 +20,6 @@ Neste ciclo de Cenáculo espero que os Caminheiros do Núcleo compreendam melhor
 
 ---
 
-{{< figure src="/img/equipa-projeto/veloza.jpg" height="330px" width="300px" class="wrap-left">}}
 Olá Viiiikingsssss 🤘🏼 \
 Eu sou a Desdentada da equipa, mas há quem me chame de **Veloza**. \
 Como o meu nome indica, voo com alta velocidade tal como o Desdentado e ambos somos mega ✨desastrados✨. \
