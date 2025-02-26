@@ -33,3 +33,8 @@ Olá Caminheiros,
 Sou o **João Sant'Ana** do 683-Telheiras, tenho 21 anos, estou no meu último ano da IV, e sou o vosso Desdentado! Estudo Engenharia Aeroespacial, gosto de acampar, ler e tocar guitarra 🤘
 Neste ciclo de Cenáculo espero que os Caminheiros do Núcleo compreendam melhor como podem usar o poder que têm no CNE. Não tenham medo de participar! (Mas cuidado com as farpas na sala de Fórum👀).
 
+
+
+
+
+
