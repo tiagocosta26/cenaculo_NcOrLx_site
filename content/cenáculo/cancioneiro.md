@@ -12,9 +12,9 @@ Para que possam aquecer essas vozes e animar a nossa Aldeia!
 <!--**Cancioneiro - Missa XXIIIº Ciclo** [Cancioneiro](https://maps.app.goo.gl/5UpepuxJ5T41kN6B9)-->
 
 **Cancioneiro - Missa XXIIIº Ciclo**
-\
-\
-\
+
+---
+
 **Despertou De um Sonho**
 
 Despertou de um sonho \
@@ -47,7 +47,7 @@ Fez-se raiz de uma árvore renovando a vida
 
 **[Refrão]**
 
-
+---
    
 **Perdoa-me Senhor** 
 
@@ -72,9 +72,9 @@ Por não lembrar que devo dar sem receber \
 E em vez de sim Te digo não \
 Por isso peço o Teu perdão, \
 Senhor.
-\
-\
-\
+
+---
+
 **Aleluia**
 
 (x3) \
@@ -84,9 +84,9 @@ Aleluia, Aleluia, Aleluia \
 Aleluia, Aleluia \
 (na 3ª as vozes agudas:) \
 Aaaaa.. leeeee… luuuuu… iaa…
-\
-\
-\
+
+---
+
 **Oração de Santo Inácio**
 
 Tomai, Senhor e recebei, \
@@ -102,9 +102,9 @@ Pela Vossa bondade. \
 Dai-me apenas Senhor. \
 O Vosso Amor e Graça, \
 que isso me basta.
-\
-\
-\
+
+---
+
 **Santo**
 
 **[Refrão:]** \
@@ -119,9 +119,9 @@ Bendito o que vem em nome do Senhor: \
 Hossana nas alturas!
 
 **[Refrão]**
-\
-\
-\
+
+---
+
 **A Paz**
 
 A paz esteja convosco \
@@ -135,9 +135,9 @@ Que tirais o pecado do mundo \
 Tende piedade de nós, \
 Tende piedade de nós \
 (3ª vez) Dai-nos a paz, a paz!
-\
-\
-\
+
+---
+
 **Pão do Céu**
 
 Pão do Céu, pão de Deus, Vida em mim és Senhor Jesus. \
@@ -176,9 +176,9 @@ Em caminhos e vales de solidão \
 Pois terá luz da vida, vida verdadeira.
 
 **[Refrão]**
-\
-\
-\
+
+---
+
 **Ó Senhora Minha**
 
 Ó Senhora minha, ó minha Mãe, \
@@ -198,9 +198,9 @@ Lembrai-vos, que vos pertenço, \
 Terna mãe, Senhora nossa. \
 Ah guardai-me, e defendei-me, \
 como coisa própria vossa.
-\
-\
-\
+
+---
+
 **Amanhã**
 
 Uma manhã senti o futuro a chamar. \
@@ -236,9 +236,9 @@ Tens a L.U.A, o luar. \
 Ser Astronauta é imaginar. \
 Que a vida não pode parar... \
 Cenáculo é amor!
-\
-\
-\
+
+---
+
 **A Dança da Vida**
 
 Dei por mim sentado \
