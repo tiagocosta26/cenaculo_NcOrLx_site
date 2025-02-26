@@ -35,7 +35,7 @@ Estudo Engenharia Aeroespacial, gosto de acampar, ler e tocar guitarra 🤘 \
 Neste ciclo de Cenáculo espero que os Caminheiros do Núcleo compreendam melhor como podem usar o poder que têm no CNE. Não tenham medo de participar! (Mas cuidado com as farpas na sala de Fórum👀).
 
 
-
+---
 
 
 
