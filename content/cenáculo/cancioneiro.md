@@ -100,26 +100,17 @@ Para que se possa ver vir de Deus esse poder.
 Em tudo somos atribulados e perseguidos, \
 Mas não desamparados e nunca vencidos. \
 No nosso corpo levamos, sem cessar, \
-A morte de Jesus, p’rá Sua Vida manifestar. \
-Trazemos, porém, este Tesouro em vasos de barro, \
-Para que se possa ver vir de Deus esse poder. \
-
-Sabemos que Aquele que O ressuscitou \
-Também ressuscitará aqueles para quem olhou. \
-E assim, jamais iremos perder a alegria. \
-Grande é o peso da Glória que nos espera um dia. \
+A morte de Jesus, p’rá Sua Vida manifestar.
 
 Trazemos, porém, este Tesouro em vasos de barro, \
-Para que se possa ver vir de Deus esse poder. \
-Trazemos, porém, este Tesouro em vasos de barro, \
-Para que se possa ver vir de Deus esse poder. \
+Para que se possa ver vir de Deus esse poder.
 
 ---
 
 **Santo**
 
 **[Refrão:]** \
-(Voz grave responde) \
+(Voz aguda responde) \
 Santo Santo é o Senhor, (Santo Santo é o Senhor) \          
 Senhor Deus do Universo, (Senhor Deus do Universo) \
 O céu e a terra proclamam (O céu e a terra proclamam) \
