@@ -111,7 +111,7 @@ Para que se possa ver vir de Deus esse poder.
 
 **[Refrão:]** \
 (Voz aguda responde) \
-Santo Santo é o Senhor, (Santo Santo é o Senhor) \          
+Santo Santo é o Senhor, (Santo Santo é o Senhor) \        
 Senhor Deus do Universo, (Senhor Deus do Universo) \
 O céu e a terra proclamam (O céu e a terra proclamam) \
 a Vossa Gló-ó-ó-ó-ria! \
