@@ -4,29 +4,14 @@ title = "Guião de Campo"
 description = "Guião de Campo" 
 +++
 
-Olá caminheiros,
+Olá Caminheiros Vikings!
 
-Tens dúvidas de como chegar ao ideal de um guerreiro dragão? 
-No Encontro Local,  vamos obter respostas para essas dúvidas, faz a mochila e fica atento às próximas informações.
+Aqui vão encontrar o que vamos fazer ao longo do Cenáculo.
 
 ---
 <!--more-->
 
-## Material
+## Para que nenhum Viking ande perdido!
 
-### Material de Clã
-- Bandeira de Agrupamento
-- Tendas de Clã
-- Oleado/Toldo
-- Alguidar
-- Esponja
 
-### Material Individual
-- Farda Oficial
-- Tupperware
-- Prato, talheres e copo
-- Caderno e caneta
-- Algo para pintar: T-shirt, Tote, ...
-- Tampas para doar!!
-
----
+{{< figure src="/img/horárioXXIII.png" height="972px" width="480px" class="wrap-center">}}

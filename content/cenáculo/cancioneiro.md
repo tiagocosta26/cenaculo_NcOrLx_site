@@ -182,7 +182,7 @@ Pois terá luz da vida, vida verdadeira.
 Ó Senhora minha, ó minha Mãe, \
 Eu me ofereço todo a vós \
 E, em prova da minha devoção para convosco, \
-Vos consagro neste dia, \
+Vos consagro neste dia e para sempre, \
 Os meus olhos, os meus ouvidos, \
 a minha boca, meu coração \
 E, inteiramente, todo o meu ser.
@@ -192,10 +192,8 @@ E porque assim sou vosso, \
 Guardai-me e defendei-me, \
 como coisa e propriedade vossa.
 
-Lembrai-vos, que vos pertenço, \
-Terna mãe, Senhora nossa. \
-Ah guardai-me, e defendei-me, \
-como coisa própria vossa.
+Lembrai-vos, terna mãe, \
+Sou vosso.
 
 ---
 
