@@ -103,11 +103,11 @@ button = true
 
 [[params.two.section.link]]
 href = "encontros-locais/Pré-Cenáculo/pre_cenaculo"
-text = "Pré-Cenáculo"
+text = "PRÉ-CENÁCULO"
 
 [[params.two.section.link]]
-href = "Cenáculo"
-text = "Cenáculo"
+href = "cenáculo"
+text = "CENÁCULO"
 
 #[[params.two.section.link]]
 #href = "pré-cenáculo/trabalhos-de-tribos"
