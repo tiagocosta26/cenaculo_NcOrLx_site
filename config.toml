@@ -102,11 +102,11 @@ body = 'Rumo aos Encontros Locais!'
 button = true
 
 [[params.two.section.link]]
-href = "Encontros Locais/Pré-Cenáculo/pre_cenaculo"
+href = "encontros-locais/Pré-Cenáculo/pre_cenaculo"
 text = "Pré-Cenáculo"
 
 [[params.two.section.link]]
-href = "Encontros Locais/Cenáculo"
+href = "encontros-locais/Cenáculo"
 text = "Cenáculo"
 
 #[[params.two.section.link]]
