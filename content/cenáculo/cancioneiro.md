@@ -46,7 +46,7 @@ Vendo a gente que o seguia \
 Fez-se raiz de uma árvore renovando a vida
 
 **[Refrão]**
-\
+
 \
    
 **Perdoa-me Senhor** 
