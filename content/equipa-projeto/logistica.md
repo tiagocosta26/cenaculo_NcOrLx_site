@@ -11,7 +11,7 @@ O departamento de logística é responsável por gerir o orçamento e os fundos 
 
 <!--more-->
 
-{{< figure src="/img/equipa-projeto/tiago.jpg" height="300px" width="300px" class="wrap-left">}}
+{{< figure src="/img/equipa-projeto/TiagoR.png" height="310px" width="286px" class="wrap-left">}}
 ​  
 Olá Caminheiros do Oriental!
 Sou o **Tiago**, tenho 20 anos e faço parte do Clan mais icónico do núcleo, no agrupamento 42 - Penha de França.
@@ -23,7 +23,7 @@ Que neste Ciclo de Cenáculo ousem ser destemidos e orgulhosos!🔥
 
 ---
 
-{{< figure src="/img/equipa-projeto/neves.jpg" height="300px" width="300px" class="wrap-right" >}}
+{{< figure src="/img/equipa-projeto/NevesR.png" height="310px" width="286px" class="wrap-right" >}}
 ​  
 Olá, olá Vikings do Oriental!!!
 O meu nome é **Gonçalo Neves**, mas toda a gente me trata por Neves!❄️

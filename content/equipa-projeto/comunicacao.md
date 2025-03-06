@@ -11,7 +11,7 @@ O departamento de Comunicação é responsável por gerir a presença nas redes 
 
 <!--more-->
 
-{{< figure src="/img/equipa-projeto/barata.jpg" height="300px" width="300px" class="wrap-left">}}
+{{< figure src="/img/equipa-projeto/BarataR.png" height="310px" width="286px" class="wrap-left">}}
 ​​  
 Heyy Vikings!! 
 Sou a **Mariana Barata**, do 848 - N.S.R. Fátima, tenho 19 anos e estou no meu segundo ano de IV. 
@@ -23,7 +23,7 @@ Posso ser um Nadder Mortal, mas não se preocupem, não cuspo fogo. Da minha par
 
 ---
 
-{{< figure src="/img/equipa-projeto/rita.jpg" height="300px" width="300px" class="wrap-right" >}}
+{{< figure src="/img/equipa-projeto/RitaR.png" height="300px" width="300px" class="wrap-right" >}}
 
 Olá Caminheiros Vikings! 
 Eu sou a **Rita**, mais conhecida por Ritinha Cp! Tenho 20 anos, estou no terceiro ano da IV e 13⁰ ano  escutista! Desde piquena (lol🤭) no Agrup. 43 - São Jorge de Arroios 😋! Estou na comunicação, que na realidade quer dizer que sou a influencer de serviço 💃🏻✨️✨️
