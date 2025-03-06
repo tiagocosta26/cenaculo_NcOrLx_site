@@ -10,15 +10,19 @@ A sua principal função é assegurar a continuidade do ciclo e representar o N�
 Ao longo do ciclo são responsáveis por constituir e gerir a equipa projeto, e fazer a ligação entre a Equipa Projeto, o Embaixador e a Junta de Núcleo.
 
 ---
+
 <!--more-->
-​{{< figure src="/img/equipa-projeto/sant'ana.jpg" height="420px" width="380px" class="wrap-right" >}}
-{{< figure src="/img/equipa-projeto/veloza.jpg" height="420px" width="380px" class="wrap-left">}}
+
+​{{< figure src="/img/equipa-projeto/Sant'AnaR.png" height="325px" width="300px" class="wrap-left" >}}
+
 Olá Caminheiros, \
 Sou o **João Sant'Ana** do 683-Telheiras, tenho 21 anos, estou no meu último ano da IV, e sou o vosso Desdentado! \
 Estudo Engenharia Aeroespacial, gosto de acampar, ler e tocar guitarra 🤘 \
 Neste ciclo de Cenáculo espero que os Caminheiros do Núcleo compreendam melhor como podem usar o poder que têm no CNE. Não tenham medo de participar! (Mas cuidado com as farpas na sala de Fórum👀).
 
 ---
+
+{{< figure src="/img/equipa-projeto/VelozaR.png" height="325px" width="300px" class="wrap-right">}}
 
 Olá Viiiikingsssss 🤘🏼 \
 Eu sou a Desdentada da equipa, mas há quem me chame de **Veloza**. \
