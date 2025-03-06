@@ -12,7 +12,7 @@ Ao longo do ciclo são responsáveis por constituir e gerir a equipa projeto, e 
 ---
 <!--more-->
 
-{{< figure src="/img/equipa-projeto/VelozaR.png" height="325px" width="300px" class="wrap-right">}}
+{{< figure src="/img/equipa-projeto/VelozaR.png" height="310px" width="286px" class="wrap-left">}}
 
 
 Olá Viiiikingsssss 🤘🏼 \
@@ -27,7 +27,7 @@ Sejam Felizes!!
 
 ---
 
-​{{< figure src="/img/equipa-projeto/Sant'AnaR.png" height="325px" width="300px" class="wrap-left" >}}
+​{{< figure src="/img/equipa-projeto/Sant'AnaR.png" height="310px" width="286px" class="wrap-right" >}}
 
 
 Olá Caminheiros, \
