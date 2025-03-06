@@ -24,15 +24,13 @@ Voar com os dragões, das várias aldeias, ao som de guitarras, cajons, ukeleles
 Vikings, nada temam!! Vivam a nossa aldeia, partilhem histórias das vossas aventuras e avancem com a mudança… O nosso destino está nas vossas mãos, calcadas 🤭 \
 Sejam Felizes!!
 
-<!--more-->
 ---
 
 ​{{< figure src="/img/equipa-projeto/Sant'AnaR.png" height="310px" width="286px" class="wrap-right" >}}
 
-
-Olá Caminheiros, \
-Sou o **João Sant'Ana** do 683-Telheiras, tenho 21 anos, estou no meu último ano da IV, e sou o vosso Desdentado! \
-Estudo Engenharia Aeroespacial, gosto de acampar, ler e tocar guitarra 🤘 \
-Neste ciclo de Cenáculo espero que os Caminheiros do Núcleo compreendam melhor como podem usar o poder que têm no CNE. \
-Não tenham medo de participar! \
+Olá Caminheiros,
+Sou o **João Sant'Ana** do 683-Telheiras, tenho 21 anos, estou no meu último ano da IV, e sou o vosso Desdentado!
+Estudo Engenharia Aeroespacial, gosto de acampar, ler e tocar guitarra 🤘
+Neste ciclo de Cenáculo espero que os Caminheiros do Núcleo compreendam melhor como podem usar o poder que têm no CNE.
+Não tenham medo de participar!
 (Mas cuidado com as farpas na sala de Fórum👀).

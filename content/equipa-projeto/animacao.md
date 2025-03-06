@@ -22,7 +22,7 @@ Podem esperar tudo de mim neste departamento que é uma  Animação!! 😜
 
 ---
 
-{{< figure src="/img/equipa-projeto/PedroR.jpg" height="310px" width="286px" class="wrap-right" >}}
+{{< figure src="/img/equipa-projeto/PedroR.png" height="310px" width="286px" class="wrap-right" >}}
 ​  
 Alô Caminheiros!!! 
 O meu nome é **Pedro Neves** e sou escuteiro do 683 Telheiras! Entrei no movimento com 8 anos, mas saí com 9 e voltei com força aos 10. Desde então, usar um lenço ao pescoço faz parte de mim :)
