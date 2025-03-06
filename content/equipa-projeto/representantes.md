@@ -26,6 +26,7 @@ Sejam Felizes!!
 
 
 ---
+<!--more-->
 
 ​{{< figure src="/img/equipa-projeto/Sant'AnaR.png" height="310px" width="286px" class="wrap-right" >}}
 
