@@ -1,8 +1,8 @@
 +++
 weight = 4
-author = "Missa"
-title = "Missa" 
-description = "Missa" 
+author = "Eucaristia"
+title = "Eucaristia" 
+description = "Eucaristia" 
 summary = '''Para que possam aquecer essas vozes e animar a nossa Aldeia!'''
 +++
 
