@@ -1,5 +1,5 @@
 +++
-weight = 1
+weight = 3
 author = "Lições de Aprendiz a Viking"
 title = "Lições de Aprendiz a Viking" 
 description = "Lições de Aprendiz a Viking" 
