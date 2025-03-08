@@ -73,15 +73,7 @@ Senhor.
 
 ---
 
-**Aleluia**
-
-(x3) \
-Aleluia, Aleluia, Aleluia \
-Aleluia, Aleluia \
-Aleluia, Aleluia, Aleluia \
-Aleluia, Aleluia \
-(na 3ª as vozes agudas:) \
-Aaaaa.. leeeee… luuuuu… iaa…
+**Aclamação da Palavra**
 
 ---
 
