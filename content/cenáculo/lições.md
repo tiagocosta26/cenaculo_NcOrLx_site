@@ -6,7 +6,7 @@ description = "Lições de Aprendiz a Viking"
 summary = ''' Resumo das Lições de Habilidade, Crescimentos, Racionamento, Fogo e Honra'''
 +++
 
-Resumo das Lições de Habilidade, Crescimentos, Racionamento, Fogo e Honra
+Resumo das Lições de Habilidade, Crescimentos, Racionamento, Fogo e Honra!
 
 ---
 <!--more-->
