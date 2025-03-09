@@ -19,6 +19,5 @@ Voltamos a encontrar-nos! Para quem não me conhece, o meu nome é **Lara**, sou
 Tenho 22 anos e estou prestes a terminar a licenciatura em Serviço Social do ISCTE (esperemos que consiga entrar no mestrado que quero 🤞). Para além disso ocupo o meu tempo com vários projetos no escutismo, sendo o Cenáculo parte da minha vivência nos últimos anos.
 Este ciclo renovei contrato, desta vez como embaixadora! Estou cá para ser o elo de ligação com o Cenáculo nacional e assumir o papel de “irmã mais velha” sempre pronta para ajudar quando qualquer um de vocês precisar! 🫶🏻
 Espero que neste Encontro Local consigam dar asas aos vossos maiores desejos! 🐦‍🔥
--->
 
 ​
