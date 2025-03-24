@@ -5,8 +5,6 @@ title = "Carta de Cenáculo XXI Ciclo"
 description = "Carta de Cenáculo"
 +++
 
-## Carta de Cenáculo XXIº Ciclo
-
 Nos dias 3, 4 e 5 de março de 2023, decorreu o 21º Ciclo de Cenáculo do Núcleo Oriental de Lisboa, em regime de acampamento, no Centro de Recursos CEBI. O tema foi “Abraça, Partilha e Avança”. Para melhor vivermos esta experiência, elegemos como imaginário o filme “Encanto”.
 
 Durante estes três dias, abordámos diversos projetos que estão a decorrer na nossa associação e a mística proposta para o programa educativo da IVª secção. Tudo isto culminou no debate acerca do tema de auscultação nacional “Assumes a tua Responsabilidade na IV?”.
