@@ -43,6 +43,10 @@ title = "XXII Ciclo"
 url = "https://cenaculo.netlify.app/"
 title = "XXI Ciclo"
 
+#[[params.menu.main]]
+#url = "https://sites.google.com/escutismo.pt/19-ciclo-cenculo-oriental"
+#title = "XIX Ciclo"
+
 [taxonomies]
 	tag = "tags"
 	category = "categories"
