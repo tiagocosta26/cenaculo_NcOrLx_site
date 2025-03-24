@@ -150,12 +150,12 @@ img = "img/carta-cenaculo.jpg"
 title = 'CARTA DE CENÁCULO'
 body = '''Aqui podes aceder à carta de Cenáculo.'''
 
-#No reportório podes encontrar diversas atividades para caminheiros, a nível nacional ou regional.
-#button = true
-
 [[params.two.section.link]]
 href = "forum/carta-cenaculo-XXIII"
 text = "CARTA DE CENÁCULO"
+
+#No reportório podes encontrar diversas atividades para caminheiros, a nível nacional ou regional.
+#button = true
 
 #[[params.two.section.link]]
 #href = "informacoes-adicionais/atividades"
