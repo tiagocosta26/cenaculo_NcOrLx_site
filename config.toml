@@ -109,6 +109,26 @@ text = "PRÉ-CENÁCULO"
 href = "cenáculo"
 text = "CENÁCULO"
 
+[[params.two.section]]
+img = "img/equipa-projeto.jpg"
+title = 'EQUIPA PROJETO'
+body = 'Conhece um pouco sobre cada membro da EP!'
+button = true
+
+[[params.two.section.link]]
+href = "equipa-projeto"
+text = "EQUIPA PROJETO"
+
+[[params.two.section]]
+img = "img/carta-cenaculo.jpg"
+title = 'CARTA DE CENÁCULO'
+body = '''Aqui podes aceder à carta de Cenáculo.'''
+button = true
+
+[[params.two.section.link]]
+href = "forum/carta-cenaculo-XXIII"
+text = "CARTA DE CENÁCULO"
+
 #[[params.two.section.link]]
 #href = "pré-cenáculo/trabalhos-de-tribos"
 #text = "TRABALHO DE TRIBOS"
@@ -134,28 +154,6 @@ text = "CENÁCULO"
 #[[params.two.section.link]]
 #href = "https://forms.gle/r88i322Qf4pw7PHu7"
 #text = "PROPOSTAS FINAIS"
-
-[[params.two.section]]
-img = "img/equipa-projeto.jpg"
-title = 'EQUIPA PROJETO'
-body = 'Conhece um pouco sobre cada membro da EP!'
-button = true
-
-[[params.two.section.link]]
-href = "equipa-projeto"
-text = "EQUIPA PROJETO"
-
-[[params.two.section]]
-img = "img/carta-cenaculo.jpg"
-title = 'CARTA DE CENÁCULO'
-body = '''Aqui podes aceder à carta de Cenáculo.'''
-
-[[params.two.section.link]]
-href = "forum/carta-cenaculo-XXII"
-text = "CARTA DE CENÁCULO"
-
-#No reportório podes encontrar diversas atividades para caminheiros, a nível nacional ou regional.
-#button = true
 
 #[[params.two.section.link]]
 #href = "informacoes-adicionais/atividades"
