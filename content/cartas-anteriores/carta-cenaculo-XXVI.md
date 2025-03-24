@@ -5,7 +5,7 @@ title = "Carta de Cenáculo XVI Ciclo"
 description = "Carta de Cenáculo"
 +++
 
-Nos dias 9, 10 e 11 de março de 2018, decorreu a atividade 16o Ciclo de Cenáculo do Núcleo Oriental de Lisboa, na Academia Militar da Amadora-Amadora, cujo tema foi “Cria Novas Memórias”.
+Nos dias 9, 10 e 11 de março de 2018, decorreu a atividade 16º Ciclo de Cenáculo do Núcleo Oriental de Lisboa, na Academia Militar da Amadora-Amadora, cujo tema foi “Cria Novas Memórias”.
 
 Durante estes 3 dias foi abordado o tema 7 Maravilhas do Método Escutista com os plenários sobre o Sistema de Progresso, Envolvimento na Comunidade, Vida na Natureza, Sistema de Patrulhas, Relação Educativa e Aprender Fazendo. Tivemos como imaginário o filme “Divertida Mente”.
 
