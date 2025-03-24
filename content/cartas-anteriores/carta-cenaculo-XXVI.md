@@ -1,7 +1,7 @@
 +++
 author = "Equipa Projeto"
 weight = 7
-title = "Carta de Cenáculo XVII Ciclo"
+title = "Carta de Cenáculo XVI Ciclo"
 description = "Carta de Cenáculo"
 +++
 
