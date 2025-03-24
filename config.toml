@@ -130,7 +130,7 @@ href = "forum/carta-cenaculo-XXIII"
 text = "CARTA DE CENÁCULO"
 
 [[params.two.section.link]]
-href = "forum/cartas-anteriores"
+href = "cartas-anteriores"
 text = "CARTAS DE CICLOS ANTERIORES"
 
 #[[params.two.section.link]]
