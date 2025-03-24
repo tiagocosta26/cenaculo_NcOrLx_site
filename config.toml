@@ -151,7 +151,7 @@ title = 'CARTA DE CENÁCULO'
 body = '''Aqui podes aceder à carta de Cenáculo.'''
 
 [[params.two.section.link]]
-href = "forum/carta-cenaculo-XXIII"
+href = "content/forum/carta-cenaculo-XXIII"
 text = "CARTA DE CENÁCULO"
 
 #No reportório podes encontrar diversas atividades para caminheiros, a nível nacional ou regional.
