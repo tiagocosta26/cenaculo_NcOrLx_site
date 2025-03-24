@@ -12,15 +12,15 @@ Durante estes 3 dias ocorreram os plenários “Escutismo na Sociedade”, “Um
 No seguimento desta atividade e face aos temas debatidos em plenário, os Caminheiros do Núcleo Oriental de Lisboa, presentes neste ciclo, comprometem-se com os seguintes pontos:
 
  **1.** Proposta das linhas orientadoras da atividade ACANUC	
-  **a.** Organização será feita com a ajuda dos guias de tribo dos clãs que irão participar na atividade
+    **a.**  Organização será feita com a ajuda dos guias de tribo dos clãs que irão participar na atividade
 
  **2.** Proposta das linhas orientadoras da atividade São Paulo ao Rubro	
-  **a.** Duração de 1 dia	
-  **b.** Objetivo geral da atividade: serviço	
-  **c.** Objetivos específicos:	
-    **i.** Foco na figura do nosso patrono	
-    **ii.** Criação de tribos verticais	
-    **iii.** Mais variedade nos serviços a serem executados	
+    **a.**  Duração de 1 dia	
+    **b.**  Objetivo geral da atividade: serviço	
+    **c.** Objetivos específicos:	
+        **i.**  Foco na figura do nosso patrono	
+        **ii.**  Criação de tribos verticais	
+        **iii.**  Mais variedade nos serviços a serem executados	
   **d.** Organização atribuída a uma equipa de caminheiros voluntários, juntamente com a equipa pedagógica do núcleo	
 
  **3.** Proposta de linhas orientadoras da atividade Dia de Núcleo
