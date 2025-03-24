@@ -13,8 +13,8 @@ copyright = "XXIII Cenáculo NcOrLx"
 #author = "CanIBeFii"
 authorurl = "https://github.com/CanIBeFii"
 description = '7, 8 e 9 de março de 2025. Estás preparado?!' # description below title on frontpage
-#startbuttonText = "Propostas Finais Carta"  # text on the start button
-#startbuttonLink = "https://forms.gle/oAxX1qaUQCbAZUmE7"
+#startbuttonText = "Fotografias XXIII Ciclo"  # text on the start button
+#startbuttonLink = "https://drive.google.com/drive/folders/1UOBcpq0WvFqqBdNWa1XhO6b6NGg8yFGi?usp=drive_link"
 body_is_markdown = true
 #custom_css = "foo.css"
 #images = ["path_to_social_image_for_link_previews.jpg"]
