@@ -97,10 +97,7 @@ Arrisca, Partilha Y Avança
 
 Lisboa, 11 de abril de 2021
 
-\
-\
-\
-\
+---
 
 ## Anexo
 
