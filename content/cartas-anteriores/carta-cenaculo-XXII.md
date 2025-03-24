@@ -5,6 +5,8 @@ title = "Carta de Cenáculo XXII Ciclo"
 description = "Carta de Cenáculo"
 +++
 
+## Carta de Cenáculo XXIIº Ciclo
+
 Nos dias 1, 2 e 3 de março de 2024, decorreu o 22º Ciclo de Cenáculo do Núcleo Oriental de Lisboa, em regime de acampamento, no Campo da Paróquia da Ajuda. O tema foi “Acredita, Partilha e Avança”. Para melhor vivermos esta experiência, elegemos como imaginário a saga “Panda do Kung Fu”.
 
 Durante estes dias, abordámos temas que ao longo das pegadas verificámos serem importantes para os caminheiros do nosso clã de núcleo. Em forma de plenários rotativos, escolhemos trabalhar uma vertente individual através dos temas: Autoestima, Pós-partida e Vocação. Em plenários, explorámos a Comunidade, a Vivência e o Serviço, extrapolando para uma esfera coletiva. Por fim, terminámos abordando o tema de auscultação nacional: “Cenáculo: Passado, Presente e Futuro”. 

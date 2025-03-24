@@ -122,7 +122,7 @@ text = "EQUIPA PROJETO"
 [[params.two.section]]
 img = "img/carta-cenaculo.jpg"
 title = 'CARTA DE CENÁCULO'
-body = '''Aqui podes aceder à carta de Cenáculo.'''
+body = '''Aqui podes aceder à Carta de Cenáculo do XXIIIº Ciclo e às Cartas dos Ciclos anteriores.'''
 button = true
 
 [[params.two.section.link]]
