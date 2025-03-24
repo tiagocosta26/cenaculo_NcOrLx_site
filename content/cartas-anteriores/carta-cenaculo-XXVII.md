@@ -15,17 +15,17 @@ No seguimento desta atividade e face aos temas debatidos em plenário, os Caminh
     **a.**  Organização será feita com a ajuda dos guias de tribo dos clãs que irão participar na atividade
 
  **2.** Proposta das linhas orientadoras da atividade São Paulo ao Rubro \	
-    **a.**  Duração de 1 dia \
-    **b.**  Objetivo geral da atividade: serviço \
-    **c.** Objetivos específicos: \
-        **i.**  Foco na figura do nosso patrono	
-        **ii.**  Criação de tribos verticais	
-        **iii.**  Mais variedade nos serviços a serem executados	
-  **d.** Organização atribuída a uma equipa de caminheiros voluntários, juntamente com a equipa pedagógica do núcleo	
+  * **a.**  Duração de 1 dia \
+  * **b.**  Objetivo geral da atividade: serviço \
+  * **c.** Objetivos específicos: \
+    - **i.**  Foco na figura do nosso patrono	
+    - **ii.**  Criação de tribos verticais	
+    - **iii.**  Mais variedade nos serviços a serem executados	
+  * **d.** Organização atribuída a uma equipa de caminheiros voluntários, juntamente com a equipa pedagógica do núcleo	
 
  **3.** Proposta de linhas orientadoras da atividade Dia de Núcleo
-Duração de 1 dia
- Objetivo geral da atividade: raid com postos
+  **+** Duração de 1 dia
+  **+** Objetivo geral da atividade: raid com postos
 
  **4.** Proposta de linhas orientadoras da atividade IVª Dimensão
 Duração de 3 dias, entre os meses de setembro e outubro
