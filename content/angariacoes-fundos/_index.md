@@ -1,3 +1,3 @@
 +++
-title = "Angaariações de Fundos"
+title = "Angariações de Fundos"
 +++
