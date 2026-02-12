@@ -36,6 +36,10 @@ url = 'informacoes-adicionais/atividades'
 title = "Reportório de Oportunidades"
 
 [[params.menu.main]]
+url = "https://cenaculoxxiii.netlify.app"
+title = "XXIII Ciclo"
+
+[[params.menu.main]]
 url = "https://cenaculoxxii.netlify.app"
 title = "XXII Ciclo"
 
